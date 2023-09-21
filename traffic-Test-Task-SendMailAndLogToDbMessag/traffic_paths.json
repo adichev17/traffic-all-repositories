@@ -8,7 +8,19 @@
   {
     "path": "/adichev17/Test-Task-SendMailAndLogToDbMessag",
     "title": "adichev17/Test-Task-SendMailAndLogToDbMessag: Execution of a test task",
-    "count": 5,
+    "count": 6,
+    "uniques": 1
+  },
+  {
+    "path": "/adichev17/Test-Task-SendMailAndLogToDbMessag/blob/master/README.md",
+    "title": "Test-Task-SendMailAndLogToDbMessag/README.md at master · adichev17/Test-Task-...",
+    "count": 4,
+    "uniques": 1
+  },
+  {
+    "path": "/adichev17/Test-Task-SendMailAndLogToDbMessag/edit/master/README.md",
+    "title": "Editing Test-Task-SendMailAndLogToDbMessag/README.md at master · adichev17/Te...",
+    "count": 4,
     "uniques": 1
   },
   {
@@ -32,12 +44,6 @@
   {
     "path": "/adichev17/Test-Task-SendMailAndLogToDbMessag/blob/master/TestWork/Services/EmailServices.cs",
     "title": "Test-Task-SendMailAndLogToDbMessag/TestWork/Services/EmailServices.cs at mast...",
-    "count": 2,
-    "uniques": 1
-  },
-  {
-    "path": "/adichev17/Test-Task-SendMailAndLogToDbMessag/edit/master/README.md",
-    "title": "Editing Test-Task-SendMailAndLogToDbMessag/README.md at master · adichev17/Te...",
     "count": 2,
     "uniques": 1
   },
