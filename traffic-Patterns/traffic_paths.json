@@ -6,6 +6,12 @@
     "uniques": 1
   },
   {
+    "path": "/adichev17/Patterns/blob/master/Patterns/ChainOfResponsibility/Goblin.cs",
+    "title": "Patterns/Patterns/ChainOfResponsibility/Goblin.cs at master · adichev17/Patte...",
+    "count": 8,
+    "uniques": 1
+  },
+  {
     "path": "/adichev17/Patterns/blob/master/PattersTests/StrategyTests.cs",
     "title": "Patterns/PattersTests/StrategyTests.cs at master · adichev17/Patterns",
     "count": 8,
@@ -18,15 +24,21 @@
     "uniques": 1
   },
   {
-    "path": "/adichev17/Patterns/tree/master/Patterns/Strategy/Static",
-    "title": "Patterns/Patterns/Strategy/Static at master · adichev17/Patterns",
+    "path": "/adichev17/Patterns/tree/master/Patterns",
+    "title": "Patterns/Patterns at master · adichev17/Patterns",
+    "count": 7,
+    "uniques": 2
+  },
+  {
+    "path": "/adichev17/Patterns/tree/master/Patterns/ChainOfResponsibility",
+    "title": "Patterns/Patterns/ChainOfResponsibility at master · adichev17/Patterns",
     "count": 6,
     "uniques": 1
   },
   {
-    "path": "/adichev17/Patterns/tree/master/Patterns",
-    "title": "Patterns/Patterns at master · adichev17/Patterns",
-    "count": 5,
+    "path": "/adichev17/Patterns/tree/master/Patterns/Strategy/Static",
+    "title": "Patterns/Patterns/Strategy/Static at master · adichev17/Patterns",
+    "count": 6,
     "uniques": 1
   },
   {
@@ -42,20 +54,8 @@
     "uniques": 1
   },
   {
-    "path": "/adichev17/Patterns/blob/master/Patterns/Factory/PersonFactory.cs",
-    "title": "Patterns/Patterns/Factory/PersonFactory.cs at master · adichev17/Patterns",
-    "count": 4,
-    "uniques": 1
-  },
-  {
-    "path": "/adichev17/Patterns/blob/master/Patterns/Strategy/Dynamic/DynamicStrategy.cs",
-    "title": "Patterns/Patterns/Strategy/Dynamic/DynamicStrategy.cs at master · adichev17/P...",
-    "count": 4,
-    "uniques": 1
-  },
-  {
-    "path": "/adichev17/Patterns/blob/master/PattersTests/FactoryTests.cs",
-    "title": "Patterns/PattersTests/FactoryTests.cs at master · adichev17/Patterns",
+    "path": "/adichev17/Patterns/blob/master/Patterns/ChainOfResponsibility/Creature.cs",
+    "title": "Patterns/Patterns/ChainOfResponsibility/Creature.cs at master · adichev17/Pat...",
     "count": 4,
     "uniques": 1
   }

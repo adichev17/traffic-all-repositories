@@ -2,7 +2,7 @@
   {
     "path": "/adichev17/traffic-all-repositories",
     "title": "adichev17/traffic-all-repositories",
-    "count": 4,
+    "count": 6,
     "uniques": 2
   },
   {
@@ -26,7 +26,7 @@
   {
     "path": "/adichev17/traffic-all-repositories/actions",
     "title": "Workflow runs · adichev17/traffic-all-repositories",
-    "count": 2,
+    "count": 3,
     "uniques": 1
   },
   {
@@ -54,8 +54,8 @@
     "uniques": 1
   },
   {
-    "path": "/adichev17/traffic-all-repositories/tree/main/.github/workflows",
-    "title": "404 Page not found",
+    "path": "/adichev17/traffic-all-repositories/actions/runs/6242455247",
+    "title": "traffic2badge · adichev17/traffic-all-repositories@27eca1e",
     "count": 1,
     "uniques": 1
   }
