@@ -1,19 +1,25 @@
 [
   {
+    "path": "/adichev17/MangoRestarauntCoffee.Microservices",
+    "title": "adichev17/MangoRestarauntCoffee.Microservices: Online store on microservice a...",
+    "count": 12,
+    "uniques": 2
+  },
+  {
     "path": "/adichev17/MangoRestarauntCoffee.Microservices/blob/master/Mango.Web/Program.cs",
     "title": "MangoRestarauntCoffee.Microservices/Mango.Web/Program.cs at master · adichev1...",
     "count": 11,
     "uniques": 1
   },
   {
-    "path": "/adichev17/MangoRestarauntCoffee.Microservices",
-    "title": "adichev17/MangoRestarauntCoffee.Microservices: Online store on microservice a...",
-    "count": 10,
-    "uniques": 2
-  },
-  {
     "path": "/adichev17/MangoRestarauntCoffee.Microservices/blob/master/Mango.Services.ShoppingCardAPI/Program.cs",
     "title": "MangoRestarauntCoffee.Microservices/Mango.Services.ShoppingCardAPI/Program.cs...",
+    "count": 7,
+    "uniques": 1
+  },
+  {
+    "path": "/adichev17/MangoRestarauntCoffee.Microservices/tree/master/Mango.Services.ShoppingCardAPI",
+    "title": "MangoRestarauntCoffee.Microservices/Mango.Services.ShoppingCardAPI at master ...",
     "count": 7,
     "uniques": 1
   },
@@ -44,12 +50,6 @@
   {
     "path": "/adichev17/MangoRestarauntCoffee.Microservices/blob/master/Mango.Web/Services/CouponService.cs",
     "title": "MangoRestarauntCoffee.Microservices/Mango.Web/Services/CouponService.cs at ma...",
-    "count": 4,
-    "uniques": 1
-  },
-  {
-    "path": "/adichev17/MangoRestarauntCoffee.Microservices/tree/master/Mango.Services.ShoppingCardAPI",
-    "title": "MangoRestarauntCoffee.Microservices/Mango.Services.ShoppingCardAPI at master ...",
     "count": 4,
     "uniques": 1
   },
