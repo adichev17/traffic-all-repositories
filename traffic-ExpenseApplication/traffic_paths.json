@@ -2,26 +2,32 @@
   {
     "path": "/adichev17/ExpenseApplication",
     "title": "adichev17/ExpenseApplication: Mobile application for accounting of finances, ...",
-    "count": 31,
+    "count": 33,
     "uniques": 2
   },
   {
     "path": "/adichev17/ExpenseApplication/tree/master/Microservices",
     "title": "ExpenseApplication/Microservices at master · adichev17/ExpenseApplication",
-    "count": 30,
+    "count": 32,
     "uniques": 2
   },
   {
     "path": "/adichev17/ExpenseApplication/blob/master/README.md",
     "title": "ExpenseApplication/README.md at master · adichev17/ExpenseApplication",
-    "count": 20,
+    "count": 22,
     "uniques": 3
   },
   {
     "path": "/adichev17/ExpenseApplication/edit/master/README.md",
     "title": "Editing ExpenseApplication/README.md at master · adichev17/ExpenseApplication",
-    "count": 16,
+    "count": 18,
     "uniques": 2
+  },
+  {
+    "path": "/adichev17/ExpenseApplication/tree/master/Microservices/ExpenseTracker",
+    "title": "ExpenseApplication/Microservices/ExpenseTracker at master · adichev17/Expense...",
+    "count": 14,
+    "uniques": 1
   },
   {
     "path": "/adichev17/ExpenseApplication/tree/master/MessageBus",
@@ -30,21 +36,15 @@
     "uniques": 2
   },
   {
+    "path": "/adichev17/ExpenseApplication/tree/master/Microservices/ExpenseTracker/ExpenseTracker.Application",
+    "title": "ExpenseApplication/Microservices/ExpenseTracker/ExpenseTracker.Application at...",
+    "count": 13,
+    "uniques": 1
+  },
+  {
     "path": "/adichev17/ExpenseApplication/blob/master/Microservices/Authentication/Authentication.Infrastructure/Persistence/AuthenticationDbContext.cs",
     "title": "ExpenseApplication/Microservices/Authentication/Authentication.Infrastructure...",
     "count": 12,
-    "uniques": 1
-  },
-  {
-    "path": "/adichev17/ExpenseApplication/tree/master/Microservices/ExpenseTracker",
-    "title": "ExpenseApplication/Microservices/ExpenseTracker at master · adichev17/Expense...",
-    "count": 11,
-    "uniques": 1
-  },
-  {
-    "path": "/adichev17/ExpenseApplication/tree/master/Microservices/ExpenseTracker/ExpenseTracker.Application",
-    "title": "ExpenseApplication/Microservices/ExpenseTracker/ExpenseTracker.Application at...",
-    "count": 11,
     "uniques": 1
   },
   {
