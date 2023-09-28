@@ -1,17 +1,5 @@
 [
   {
-    "path": "/adichev17/Test-Task-SendMailAndLogToDbMessag",
-    "title": "adichev17/Test-Task-SendMailAndLogToDbMessag: Execution of a test task",
-    "count": 5,
-    "uniques": 2
-  },
-  {
-    "path": "/adichev17/Test-Task-SendMailAndLogToDbMessag/tree/master/TestWork",
-    "title": "Test-Task-SendMailAndLogToDbMessag/TestWork at master · adichev17/Test-Task-S...",
-    "count": 5,
-    "uniques": 1
-  },
-  {
     "path": "/adichev17/Test-Task-SendMailAndLogToDbMessag/blob/master/README.md",
     "title": "Test-Task-SendMailAndLogToDbMessag/README.md at master · adichev17/Test-Task-...",
     "count": 4,
@@ -24,9 +12,9 @@
     "uniques": 1
   },
   {
-    "path": "/adichev17/Test-Task-SendMailAndLogToDbMessag/blob/master/TestWork/Program.cs",
-    "title": "Test-Task-SendMailAndLogToDbMessag/TestWork/Program.cs at master · adichev17/...",
-    "count": 2,
-    "uniques": 1
+    "path": "/adichev17/Test-Task-SendMailAndLogToDbMessag",
+    "title": "adichev17/Test-Task-SendMailAndLogToDbMessag: Execution of a test task",
+    "count": 3,
+    "uniques": 2
   }
 ]
