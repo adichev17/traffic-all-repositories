@@ -1,33 +1,9 @@
 [
   {
-    "path": "/adichev17/Patterns/blob/master/Patterns/Strategy/Static/StaticStrategy.cs",
-    "title": "Patterns/Patterns/Strategy/Static/StaticStrategy.cs at master · adichev17/Pat...",
-    "count": 10,
-    "uniques": 1
-  },
-  {
     "path": "/adichev17/Patterns/blob/master/Patterns/ChainOfResponsibility/Goblin.cs",
     "title": "Patterns/Patterns/ChainOfResponsibility/Goblin.cs at master · adichev17/Patte...",
     "count": 8,
     "uniques": 1
-  },
-  {
-    "path": "/adichev17/Patterns/blob/master/PattersTests/StrategyTests.cs",
-    "title": "Patterns/PattersTests/StrategyTests.cs at master · adichev17/Patterns",
-    "count": 8,
-    "uniques": 1
-  },
-  {
-    "path": "/adichev17/Patterns/tree/master/PattersTests",
-    "title": "Patterns/PattersTests at master · adichev17/Patterns",
-    "count": 8,
-    "uniques": 1
-  },
-  {
-    "path": "/adichev17/Patterns/tree/master/Patterns",
-    "title": "Patterns/Patterns at master · adichev17/Patterns",
-    "count": 7,
-    "uniques": 2
   },
   {
     "path": "/adichev17/Patterns/tree/master/Patterns/ChainOfResponsibility",
@@ -36,27 +12,51 @@
     "uniques": 1
   },
   {
-    "path": "/adichev17/Patterns/tree/master/Patterns/Strategy/Static",
-    "title": "Patterns/Patterns/Strategy/Static at master · adichev17/Patterns",
-    "count": 6,
-    "uniques": 1
-  },
-  {
-    "path": "/adichev17/Patterns/tree/master/Patterns/Strategy",
-    "title": "Patterns/Patterns/Strategy at master · adichev17/Patterns",
+    "path": "/adichev17/Patterns/tree/master/Patterns",
+    "title": "Patterns/Patterns at master · adichev17/Patterns · GitHub",
     "count": 5,
-    "uniques": 1
-  },
-  {
-    "path": "/adichev17/Patterns/tree/master/Patterns/Strategy/Dynamic",
-    "title": "Patterns/Patterns/Strategy/Dynamic at master · adichev17/Patterns",
-    "count": 5,
-    "uniques": 1
+    "uniques": 2
   },
   {
     "path": "/adichev17/Patterns/blob/master/Patterns/ChainOfResponsibility/Creature.cs",
     "title": "Patterns/Patterns/ChainOfResponsibility/Creature.cs at master · adichev17/Pat...",
     "count": 4,
+    "uniques": 1
+  },
+  {
+    "path": "/adichev17/Patterns/blob/master/README.md",
+    "title": "Patterns/README.md at master · adichev17/Patterns",
+    "count": 4,
+    "uniques": 1
+  },
+  {
+    "path": "/adichev17/Patterns",
+    "title": "GitHub - adichev17/Patterns: Сheat sheet for patterns",
+    "count": 3,
+    "uniques": 3
+  },
+  {
+    "path": "/adichev17/Patterns/tree/master/Patterns/Decorator",
+    "title": "Patterns/Patterns/Decorator at master · adichev17/Patterns · GitHub",
+    "count": 3,
+    "uniques": 1
+  },
+  {
+    "path": "/adichev17/Patterns/tree/master/Patterns/Decorator/SecondExample",
+    "title": "Patterns/Patterns/Decorator/SecondExample at master · adichev17/Patterns · Gi...",
+    "count": 3,
+    "uniques": 1
+  },
+  {
+    "path": "/adichev17/Patterns/blob/master/Patterns/ChainOfResponsibility/GoblinKing.cs",
+    "title": "Patterns/Patterns/ChainOfResponsibility/GoblinKing.cs at master · adichev17/P...",
+    "count": 2,
+    "uniques": 1
+  },
+  {
+    "path": "/adichev17/Patterns/blob/master/Patterns/Decorator/SecondExample/Interfaces.cs",
+    "title": "Patterns/Patterns/Decorator/SecondExample/Interfaces.cs at master · adichev17...",
+    "count": 2,
     "uniques": 1
   }
 ]
