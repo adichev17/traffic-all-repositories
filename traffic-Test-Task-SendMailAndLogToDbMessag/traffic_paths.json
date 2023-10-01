@@ -6,15 +6,15 @@
     "uniques": 1
   },
   {
-    "path": "/adichev17/Test-Task-SendMailAndLogToDbMessag/edit/master/README.md",
-    "title": "Editing Test-Task-SendMailAndLogToDbMessag/README.md at master · adichev17/Te...",
-    "count": 4,
-    "uniques": 1
-  },
-  {
     "path": "/adichev17/Test-Task-SendMailAndLogToDbMessag",
     "title": "adichev17/Test-Task-SendMailAndLogToDbMessag: Execution of a test task",
-    "count": 3,
+    "count": 2,
     "uniques": 2
+  },
+  {
+    "path": "/adichev17/Test-Task-SendMailAndLogToDbMessag/edit/master/README.md",
+    "title": "Editing Test-Task-SendMailAndLogToDbMessag/README.md at master · adichev17/Te...",
+    "count": 2,
+    "uniques": 1
   }
 ]
