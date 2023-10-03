@@ -2,60 +2,30 @@
   {
     "path": "/adichev17/traffic-all-repositories",
     "title": "adichev17/traffic-all-repositories",
-    "count": 6,
-    "uniques": 2
-  },
-  {
-    "path": "/adichev17/traffic-all-repositories/actions/runs/6233267805",
-    "title": "Create traffic job.yml · adichev17/traffic-all-repositories@27eca1e",
-    "count": 4,
-    "uniques": 1
-  },
-  {
-    "path": "/adichev17/traffic-all-repositories/blob/main/README.md",
-    "title": "traffic-all-repositories/README.md at main · adichev17/traffic-all-repositories",
-    "count": 4,
-    "uniques": 1
-  },
-  {
-    "path": "/adichev17/traffic-all-repositories/new/main",
-    "title": "New File at / · adichev17/traffic-all-repositories",
-    "count": 4,
+    "count": 2,
     "uniques": 1
   },
   {
     "path": "/adichev17/traffic-all-repositories/actions",
     "title": "Workflow runs · adichev17/traffic-all-repositories",
-    "count": 3,
-    "uniques": 1
-  },
-  {
-    "path": "/adichev17/traffic-all-repositories/edit/main/README.md",
-    "title": "Editing traffic-all-repositories/README.md at main · adichev17/traffic-all-re...",
-    "count": 2,
-    "uniques": 1
-  },
-  {
-    "path": "/adichev17/traffic-all-repositories/actions/new",
-    "title": "Create new workflow · adichev17/traffic-all-repositories",
-    "count": 1,
-    "uniques": 1
-  },
-  {
-    "path": "/adichev17/traffic-all-repositories/actions/runs/6233267805/job/16918118166",
-    "title": "Create traffic job.yml · adichev17/traffic-all-repositories@27eca1e",
-    "count": 1,
-    "uniques": 1
-  },
-  {
-    "path": "/adichev17/traffic-all-repositories/actions/runs/6233267805/job/16918178482",
-    "title": "Create traffic job.yml · adichev17/traffic-all-repositories@27eca1e",
     "count": 1,
     "uniques": 1
   },
   {
     "path": "/adichev17/traffic-all-repositories/actions/runs/6242455247",
     "title": "traffic2badge · adichev17/traffic-all-repositories@27eca1e",
+    "count": 1,
+    "uniques": 1
+  },
+  {
+    "path": "/adichev17/traffic-all-repositories/actions/runs/6242455247/job/16946414420",
+    "title": "traffic2badge · adichev17/traffic-all-repositories@27eca1e",
+    "count": 1,
+    "uniques": 1
+  },
+  {
+    "path": "/adichev17/traffic-all-repositories/actions/runs/6242455247/workflow",
+    "title": "Create traffic job.yml · adichev17/traffic-all-repositories@27eca1e",
     "count": 1,
     "uniques": 1
   }

@@ -24,18 +24,6 @@
     "uniques": 1
   },
   {
-    "path": "/adichev17/Patterns/blob/master/README.md",
-    "title": "Patterns/README.md at master · adichev17/Patterns",
-    "count": 4,
-    "uniques": 1
-  },
-  {
-    "path": "/adichev17/Patterns",
-    "title": "GitHub - adichev17/Patterns: Сheat sheet for patterns",
-    "count": 3,
-    "uniques": 3
-  },
-  {
     "path": "/adichev17/Patterns/tree/master/Patterns/Decorator",
     "title": "Patterns/Patterns/Decorator at master · adichev17/Patterns · GitHub",
     "count": 3,
@@ -48,6 +36,12 @@
     "uniques": 1
   },
   {
+    "path": "/adichev17/Patterns",
+    "title": "GitHub - adichev17/Patterns: Сheat sheet for patterns",
+    "count": 2,
+    "uniques": 2
+  },
+  {
     "path": "/adichev17/Patterns/blob/master/Patterns/ChainOfResponsibility/GoblinKing.cs",
     "title": "Patterns/Patterns/ChainOfResponsibility/GoblinKing.cs at master · adichev17/P...",
     "count": 2,
@@ -56,6 +50,12 @@
   {
     "path": "/adichev17/Patterns/blob/master/Patterns/Decorator/SecondExample/Interfaces.cs",
     "title": "Patterns/Patterns/Decorator/SecondExample/Interfaces.cs at master · adichev17...",
+    "count": 2,
+    "uniques": 1
+  },
+  {
+    "path": "/adichev17/Patterns/blob/master/PattersTests/ChainOfResponsibilityTests.cs",
+    "title": "Patterns/PattersTests/ChainOfResponsibilityTests.cs at master · adichev17/Pat...",
     "count": 2,
     "uniques": 1
   }
