@@ -2,32 +2,26 @@
   {
     "path": "/adichev17/ExpenseApplication/tree/master/Microservices",
     "title": "ExpenseApplication/Microservices at master · adichev17/ExpenseApplication",
-    "count": 29,
-    "uniques": 3
-  },
-  {
-    "path": "/adichev17/ExpenseApplication/tree/master/MessageBus",
-    "title": "ExpenseApplication/MessageBus at master · adichev17/ExpenseApplication · GitHub",
-    "count": 22,
-    "uniques": 3
+    "count": 19,
+    "uniques": 2
   },
   {
     "path": "/adichev17/ExpenseApplication/tree/master/Microservices/ExpenseTracker",
     "title": "ExpenseApplication/Microservices/ExpenseTracker at master · adichev17/Expense...",
-    "count": 19,
+    "count": 13,
     "uniques": 1
   },
   {
     "path": "/adichev17/ExpenseApplication",
     "title": "GitHub - adichev17/ExpenseApplication: Mobile application for accounting of f...",
-    "count": 16,
-    "uniques": 4
+    "count": 12,
+    "uniques": 3
   },
   {
-    "path": "/adichev17/ExpenseApplication/tree/master/Microservices/ExpenseTracker/ExpenseTracker.Application",
-    "title": "ExpenseApplication/Microservices/ExpenseTracker/ExpenseTracker.Application at...",
-    "count": 16,
-    "uniques": 1
+    "path": "/adichev17/ExpenseApplication/tree/master/MessageBus",
+    "title": "ExpenseApplication/MessageBus at master · adichev17/ExpenseApplication · GitHub",
+    "count": 12,
+    "uniques": 2
   },
   {
     "path": "/adichev17/ExpenseApplication/blob/master/Microservices/Authentication/Authentication.Infrastructure/Persistence/AuthenticationDbContext.cs",
@@ -36,27 +30,33 @@
     "uniques": 1
   },
   {
+    "path": "/adichev17/ExpenseApplication/tree/master/Microservices/ExpenseTracker/ExpenseTracker.Application",
+    "title": "ExpenseApplication/Microservices/ExpenseTracker/ExpenseTracker.Application at...",
+    "count": 11,
+    "uniques": 1
+  },
+  {
     "path": "/adichev17/ExpenseApplication/tree/master/MessageBus/RabbitMQProducers",
     "title": "ExpenseApplication/MessageBus/RabbitMQProducers at master · adichev17/Expense...",
-    "count": 11,
-    "uniques": 2
-  },
-  {
-    "path": "/adichev17/ExpenseApplication/blob/master/MessageBus/RabbitMQProducers/RabbitMQProducer.cs",
-    "title": "ExpenseApplication/MessageBus/RabbitMQProducers/RabbitMQProducer.cs at master...",
-    "count": 9,
-    "uniques": 3
-  },
-  {
-    "path": "/adichev17/ExpenseApplication/tree/master/Microservices/ExpenseTracker/ExpenseTracker.API",
-    "title": "ExpenseApplication/Microservices/ExpenseTracker/ExpenseTracker.API at master ...",
     "count": 9,
     "uniques": 1
   },
   {
-    "path": "/adichev17/ExpenseApplication/blob/master/MessageBus/DependencyInjection.cs",
-    "title": "ExpenseApplication/MessageBus/DependencyInjection.cs at master · adichev17/Ex...",
-    "count": 8,
-    "uniques": 3
+    "path": "/adichev17/ExpenseApplication/blob/master/MessageBus/RabbitMQProducers/RabbitMQProducer.cs",
+    "title": "ExpenseApplication/MessageBus/RabbitMQProducers/RabbitMQProducer.cs at master...",
+    "count": 7,
+    "uniques": 2
+  },
+  {
+    "path": "/adichev17/ExpenseApplication/tree/master/Microservices/ExpenseTracker/ExpenseTracker.API",
+    "title": "ExpenseApplication/Microservices/ExpenseTracker/ExpenseTracker.API at master ...",
+    "count": 7,
+    "uniques": 1
+  },
+  {
+    "path": "/adichev17/ExpenseApplication/blob/master/MessageBus/MessageBus.csproj",
+    "title": "ExpenseApplication/MessageBus/MessageBus.csproj at master · adichev17/Expense...",
+    "count": 6,
+    "uniques": 2
   }
 ]
