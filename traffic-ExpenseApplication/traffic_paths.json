@@ -2,20 +2,8 @@
   {
     "path": "/adichev17/ExpenseApplication/tree/master/Microservices",
     "title": "ExpenseApplication/Microservices at master · adichev17/ExpenseApplication",
-    "count": 19,
-    "uniques": 2
-  },
-  {
-    "path": "/adichev17/ExpenseApplication/tree/master/Microservices/ExpenseTracker",
-    "title": "ExpenseApplication/Microservices/ExpenseTracker at master · adichev17/Expense...",
     "count": 13,
-    "uniques": 1
-  },
-  {
-    "path": "/adichev17/ExpenseApplication",
-    "title": "GitHub - adichev17/ExpenseApplication: Mobile application for accounting of f...",
-    "count": 12,
-    "uniques": 3
+    "uniques": 2
   },
   {
     "path": "/adichev17/ExpenseApplication/tree/master/MessageBus",
@@ -24,16 +12,16 @@
     "uniques": 2
   },
   {
-    "path": "/adichev17/ExpenseApplication/blob/master/Microservices/Authentication/Authentication.Infrastructure/Persistence/AuthenticationDbContext.cs",
-    "title": "ExpenseApplication/Microservices/Authentication/Authentication.Infrastructure...",
-    "count": 12,
+    "path": "/adichev17/ExpenseApplication/tree/master/Microservices/ExpenseTracker",
+    "title": "ExpenseApplication/Microservices/ExpenseTracker at master · adichev17/Expense...",
+    "count": 10,
     "uniques": 1
   },
   {
-    "path": "/adichev17/ExpenseApplication/tree/master/Microservices/ExpenseTracker/ExpenseTracker.Application",
-    "title": "ExpenseApplication/Microservices/ExpenseTracker/ExpenseTracker.Application at...",
-    "count": 11,
-    "uniques": 1
+    "path": "/adichev17/ExpenseApplication",
+    "title": "GitHub - adichev17/ExpenseApplication: Mobile application for accounting of f...",
+    "count": 9,
+    "uniques": 3
   },
   {
     "path": "/adichev17/ExpenseApplication/tree/master/MessageBus/RabbitMQProducers",
@@ -54,9 +42,21 @@
     "uniques": 1
   },
   {
+    "path": "/adichev17/ExpenseApplication/tree/master/Microservices/ExpenseTracker/ExpenseTracker.Application",
+    "title": "ExpenseApplication/Microservices/ExpenseTracker/ExpenseTracker.Application at...",
+    "count": 7,
+    "uniques": 1
+  },
+  {
     "path": "/adichev17/ExpenseApplication/blob/master/MessageBus/MessageBus.csproj",
     "title": "ExpenseApplication/MessageBus/MessageBus.csproj at master · adichev17/Expense...",
     "count": 6,
+    "uniques": 2
+  },
+  {
+    "path": "/adichev17/ExpenseApplication/blob/master/MessageBus/Common/MessageBusConstants.cs",
+    "title": "ExpenseApplication/MessageBus/Common/MessageBusConstants.cs at master · adich...",
+    "count": 4,
     "uniques": 2
   }
 ]
