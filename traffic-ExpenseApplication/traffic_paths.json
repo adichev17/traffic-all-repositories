@@ -2,8 +2,14 @@
   {
     "path": "/adichev17/ExpenseApplication/tree/master/Microservices",
     "title": "ExpenseApplication/Microservices at master · adichev17/ExpenseApplication",
-    "count": 15,
+    "count": 17,
     "uniques": 2
+  },
+  {
+    "path": "/adichev17/ExpenseApplication/tree/master/Microservices/ExpenseTracker",
+    "title": "ExpenseApplication/Microservices/ExpenseTracker at master · adichev17/Expense...",
+    "count": 14,
+    "uniques": 1
   },
   {
     "path": "/adichev17/ExpenseApplication/tree/master/MessageBus",
@@ -12,22 +18,16 @@
     "uniques": 2
   },
   {
-    "path": "/adichev17/ExpenseApplication/tree/master/Microservices/ExpenseTracker",
-    "title": "ExpenseApplication/Microservices/ExpenseTracker at master · adichev17/Expense...",
+    "path": "/adichev17/ExpenseApplication/tree/master/Microservices/ExpenseTracker/ExpenseTracker.API",
+    "title": "ExpenseApplication/Microservices/ExpenseTracker/ExpenseTracker.API at master ...",
     "count": 12,
     "uniques": 1
   },
   {
     "path": "/adichev17/ExpenseApplication",
     "title": "GitHub - adichev17/ExpenseApplication: Mobile application for accounting of f...",
-    "count": 10,
+    "count": 11,
     "uniques": 3
-  },
-  {
-    "path": "/adichev17/ExpenseApplication/tree/master/Microservices/ExpenseTracker/ExpenseTracker.API",
-    "title": "ExpenseApplication/Microservices/ExpenseTracker/ExpenseTracker.API at master ...",
-    "count": 10,
-    "uniques": 1
   },
   {
     "path": "/adichev17/ExpenseApplication/tree/master/MessageBus/RabbitMQProducers",
@@ -42,6 +42,12 @@
     "uniques": 2
   },
   {
+    "path": "/adichev17/ExpenseApplication/tree/master/Microservices/ExpenseTracker/ExpenseTracker.API/Messaging",
+    "title": "ExpenseApplication/Microservices/ExpenseTracker/ExpenseTracker.API/Messaging ...",
+    "count": 7,
+    "uniques": 1
+  },
+  {
     "path": "/adichev17/ExpenseApplication/tree/master/Microservices/ExpenseTracker/ExpenseTracker.Application",
     "title": "ExpenseApplication/Microservices/ExpenseTracker/ExpenseTracker.Application at...",
     "count": 7,
@@ -52,11 +58,5 @@
     "title": "ExpenseApplication/MessageBus/MessageBus.csproj at master · adichev17/Expense...",
     "count": 6,
     "uniques": 2
-  },
-  {
-    "path": "/adichev17/ExpenseApplication/tree/master/Microservices/ExpenseTracker/ExpenseTracker.API/Messaging",
-    "title": "ExpenseApplication/Microservices/ExpenseTracker/ExpenseTracker.API/Messaging ...",
-    "count": 5,
-    "uniques": 1
   }
 ]
