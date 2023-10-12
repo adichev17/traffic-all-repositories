@@ -424,6 +424,36 @@
 [![clones per week](https://raw.githubusercontent.com/adichev17/traffic-all-repositories/traffic/traffic-TelegramBotStankinSchedule/clones_per_week.svg)](https://github.com/adichev17/traffic-all-repositories/tree/traffic#-TelegramBotStankinSchedule)
 ```
 
+## 📚 [test-task-multithreading](https://github.com/adichev17/traffic-all-repositories/tree/traffic/traffic-test-task-multithreading)
+
+### 📷 Badges without link of [test-task-multithreading](https://github.com/adichev17/traffic-all-repositories/tree/traffic/traffic-test-task-multithreading)
+
+![views](https://raw.githubusercontent.com/adichev17/traffic-all-repositories/traffic/traffic-test-task-multithreading/views.svg)
+![views per week](https://raw.githubusercontent.com/adichev17/traffic-all-repositories/traffic/traffic-test-task-multithreading/views_per_week.svg)
+![clones](https://raw.githubusercontent.com/adichev17/traffic-all-repositories/traffic/traffic-test-task-multithreading/clones.svg)
+![clones per week](https://raw.githubusercontent.com/adichev17/traffic-all-repositories/traffic/traffic-test-task-multithreading/clones_per_week.svg)
+
+```markdown
+![views](https://raw.githubusercontent.com/adichev17/traffic-all-repositories/traffic/traffic-test-task-multithreading/views.svg)
+![views per week](https://raw.githubusercontent.com/adichev17/traffic-all-repositories/traffic/traffic-test-task-multithreading/views_per_week.svg)
+![clones](https://raw.githubusercontent.com/adichev17/traffic-all-repositories/traffic/traffic-test-task-multithreading/clones.svg)
+![clones per week](https://raw.githubusercontent.com/adichev17/traffic-all-repositories/traffic/traffic-test-task-multithreading/clones_per_week.svg)
+```
+
+### 🔗 Badges with link of [test-task-multithreading](https://github.com/adichev17/traffic-all-repositories/tree/traffic/traffic-test-task-multithreading)
+
+[![views](https://raw.githubusercontent.com/adichev17/traffic-all-repositories/traffic/traffic-test-task-multithreading/views.svg)](https://github.com/adichev17/traffic-all-repositories/tree/traffic#-test-task-multithreading)
+[![views per week](https://raw.githubusercontent.com/adichev17/traffic-all-repositories/traffic/traffic-test-task-multithreading/views_per_week.svg)](https://github.com/adichev17/traffic-all-repositories/tree/traffic#-test-task-multithreading)
+[![clones](https://raw.githubusercontent.com/adichev17/traffic-all-repositories/traffic/traffic-test-task-multithreading/clones.svg)](https://github.com/adichev17/traffic-all-repositories/tree/traffic#-test-task-multithreading)
+[![clones per week](https://raw.githubusercontent.com/adichev17/traffic-all-repositories/traffic/traffic-test-task-multithreading/clones_per_week.svg)](https://github.com/adichev17/traffic-all-repositories/tree/traffic#-test-task-multithreading)
+
+```markdown
+[![views](https://raw.githubusercontent.com/adichev17/traffic-all-repositories/traffic/traffic-test-task-multithreading/views.svg)](https://github.com/adichev17/traffic-all-repositories/tree/traffic#-test-task-multithreading)
+[![views per week](https://raw.githubusercontent.com/adichev17/traffic-all-repositories/traffic/traffic-test-task-multithreading/views_per_week.svg)](https://github.com/adichev17/traffic-all-repositories/tree/traffic#-test-task-multithreading)
+[![clones](https://raw.githubusercontent.com/adichev17/traffic-all-repositories/traffic/traffic-test-task-multithreading/clones.svg)](https://github.com/adichev17/traffic-all-repositories/tree/traffic#-test-task-multithreading)
+[![clones per week](https://raw.githubusercontent.com/adichev17/traffic-all-repositories/traffic/traffic-test-task-multithreading/clones_per_week.svg)](https://github.com/adichev17/traffic-all-repositories/tree/traffic#-test-task-multithreading)
+```
+
 ## 📚 [Test-Task-SendMailAndLogToDbMessag](https://github.com/adichev17/traffic-all-repositories/tree/traffic/traffic-Test-Task-SendMailAndLogToDbMessag)
 
 ### 📷 Badges without link of [Test-Task-SendMailAndLogToDbMessag](https://github.com/adichev17/traffic-all-repositories/tree/traffic/traffic-Test-Task-SendMailAndLogToDbMessag)
