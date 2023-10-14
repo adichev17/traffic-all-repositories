@@ -1,1 +1,56 @@
-[]
+[
+  {
+    "path": "/adichev17/Patterns/tree/master/PattersTests",
+    "title": "Patterns/PattersTests at master · adichev17/Patterns",
+    "count": 4,
+    "uniques": 1
+  },
+  {
+    "path": "/adichev17/Patterns/tree/master/Patterns",
+    "title": "Patterns/Patterns at master · adichev17/Patterns",
+    "count": 3,
+    "uniques": 1
+  },
+  {
+    "path": "/adichev17/Patterns/tree/master/Patterns/Iterator",
+    "title": "Patterns/Patterns/Iterator at master · adichev17/Patterns",
+    "count": 3,
+    "uniques": 1
+  },
+  {
+    "path": "/adichev17/Patterns/tree/master/Patterns/Iterator/FirstExample",
+    "title": "Patterns/Patterns/Iterator/FirstExample at master · adichev17/Patterns",
+    "count": 3,
+    "uniques": 1
+  },
+  {
+    "path": "/adichev17/Patterns/blob/master/Patterns/Iterator/FirstExample/Creature.cs",
+    "title": "Patterns/Patterns/Iterator/FirstExample/Creature.cs at master · adichev17/Pat...",
+    "count": 2,
+    "uniques": 1
+  },
+  {
+    "path": "/adichev17/Patterns/blob/master/PattersTests/BuilderTests.cs",
+    "title": "Patterns/PattersTests/BuilderTests.cs at master · adichev17/Patterns",
+    "count": 2,
+    "uniques": 1
+  },
+  {
+    "path": "/adichev17/Patterns",
+    "title": "adichev17/Patterns: Сheat sheet for patterns",
+    "count": 1,
+    "uniques": 1
+  },
+  {
+    "path": "/adichev17/Patterns/stargazers",
+    "title": "Stargazers · adichev17/Patterns",
+    "count": 1,
+    "uniques": 1
+  },
+  {
+    "path": "/adichev17/Patterns/watchers",
+    "title": "Watchers · adichev17/Patterns",
+    "count": 1,
+    "uniques": 1
+  }
+]
