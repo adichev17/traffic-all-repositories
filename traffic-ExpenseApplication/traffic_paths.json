@@ -1,27 +1,9 @@
 [
   {
     "path": "/adichev17/ExpenseApplication",
-    "title": "ExpenseApplication/ at master · adichev17/ExpenseApplication",
+    "title": "GitHub - adichev17/ExpenseApplication: Mobile application for accounting of f...",
     "count": 13,
-    "uniques": 2
-  },
-  {
-    "path": "/adichev17/ExpenseApplication/tree/master/Microservices",
-    "title": "ExpenseApplication/Microservices at master · adichev17/ExpenseApplication",
-    "count": 4,
-    "uniques": 1
-  },
-  {
-    "path": "/adichev17/ExpenseApplication/tree/master/Microservices/ExpenseTracker",
-    "title": "ExpenseApplication/Microservices/ExpenseTracker at master · adichev17/Expense...",
-    "count": 4,
-    "uniques": 1
-  },
-  {
-    "path": "/adichev17/ExpenseApplication/tree/master/Microservices/ExpenseTracker/ExpenseTracker.API",
-    "title": "ExpenseApplication/Microservices/ExpenseTracker/ExpenseTracker.API at master ...",
-    "count": 4,
-    "uniques": 1
+    "uniques": 3
   },
   {
     "path": "/adichev17/ExpenseApplication/blob/master/project-development.txt",
@@ -48,14 +30,32 @@
     "uniques": 1
   },
   {
-    "path": "/adichev17/ExpenseApplication/blob/master/Microservices/ExpenseTracker/ExpenseTracker.API/Messaging/RabbitMQConsumer.cs",
-    "title": "ExpenseApplication/Microservices/ExpenseTracker/ExpenseTracker.API/Messaging/...",
+    "path": "/adichev17/ExpenseApplication/blob/master/Microservices/ExpenseTracker/ExpenseTracker.API/Program.cs",
+    "title": "ExpenseApplication/Microservices/ExpenseTracker/ExpenseTracker.API/Program.cs...",
     "count": 2,
     "uniques": 1
   },
   {
-    "path": "/adichev17/ExpenseApplication/blob/master/Microservices/ExpenseTracker/ExpenseTracker.API/Program.cs",
-    "title": "ExpenseApplication/Microservices/ExpenseTracker/ExpenseTracker.API/Program.cs...",
+    "path": "/adichev17/ExpenseApplication/branches",
+    "title": "Branches · adichev17/ExpenseApplication",
+    "count": 2,
+    "uniques": 1
+  },
+  {
+    "path": "/adichev17/ExpenseApplication/commits/master",
+    "title": "Commits · adichev17/ExpenseApplication",
+    "count": 2,
+    "uniques": 1
+  },
+  {
+    "path": "/adichev17/ExpenseApplication/pull/3",
+    "title": "feat: :recycle: refactor code by adichev17 · Pull Request #3 · adichev17/Expe...",
+    "count": 2,
+    "uniques": 1
+  },
+  {
+    "path": "/adichev17/ExpenseApplication/tree/master/Microservices",
+    "title": "ExpenseApplication/Microservices at master · adichev17/ExpenseApplication",
     "count": 2,
     "uniques": 1
   }
