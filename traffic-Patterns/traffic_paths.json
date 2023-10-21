@@ -1,13 +1,43 @@
 [
   {
+    "path": "/adichev17/Patterns/tree/master/Patterns",
+    "title": "Patterns/Patterns at master · adichev17/Patterns · GitHub",
+    "count": 9,
+    "uniques": 2
+  },
+  {
     "path": "/adichev17/Patterns/tree/master/PattersTests",
     "title": "Patterns/PattersTests at master · adichev17/Patterns",
     "count": 4,
     "uniques": 1
   },
   {
-    "path": "/adichev17/Patterns/tree/master/Patterns",
-    "title": "Patterns/Patterns at master · adichev17/Patterns",
+    "path": "/adichev17/Patterns",
+    "title": "GitHub - adichev17/Patterns: Сheat sheet for patterns",
+    "count": 3,
+    "uniques": 3
+  },
+  {
+    "path": "/adichev17/Patterns/tree/master/Patterns/Adapter",
+    "title": "Patterns/Patterns/Adapter at master · adichev17/Patterns · GitHub",
+    "count": 3,
+    "uniques": 1
+  },
+  {
+    "path": "/adichev17/Patterns/tree/master/Patterns/Adapter/Example",
+    "title": "Patterns/Patterns/Adapter/Example at master · adichev17/Patterns · GitHub",
+    "count": 3,
+    "uniques": 1
+  },
+  {
+    "path": "/adichev17/Patterns/tree/master/Patterns/Decorator",
+    "title": "Patterns/Patterns/Decorator at master · adichev17/Patterns · GitHub",
+    "count": 3,
+    "uniques": 1
+  },
+  {
+    "path": "/adichev17/Patterns/tree/master/Patterns/Decorator/FirstExample",
+    "title": "Patterns/Patterns/Decorator/FirstExample at master · adichev17/Patterns · Git...",
     "count": 3,
     "uniques": 1
   },
@@ -24,33 +54,9 @@
     "uniques": 1
   },
   {
-    "path": "/adichev17/Patterns",
-    "title": "adichev17/Patterns: Сheat sheet for patterns",
-    "count": 2,
-    "uniques": 2
-  },
-  {
-    "path": "/adichev17/Patterns/blob/master/Patterns/Iterator/FirstExample/Creature.cs",
-    "title": "Patterns/Patterns/Iterator/FirstExample/Creature.cs at master · adichev17/Pat...",
-    "count": 2,
-    "uniques": 1
-  },
-  {
-    "path": "/adichev17/Patterns/blob/master/PattersTests/BuilderTests.cs",
-    "title": "Patterns/PattersTests/BuilderTests.cs at master · adichev17/Patterns",
-    "count": 2,
-    "uniques": 1
-  },
-  {
-    "path": "/adichev17/Patterns/stargazers",
-    "title": "Stargazers · adichev17/Patterns",
-    "count": 1,
-    "uniques": 1
-  },
-  {
-    "path": "/adichev17/Patterns/watchers",
-    "title": "Watchers · adichev17/Patterns",
-    "count": 1,
+    "path": "/adichev17/Patterns/tree/master/Patterns/Singleton",
+    "title": "Patterns/Patterns/Singleton at master · adichev17/Patterns · GitHub",
+    "count": 3,
     "uniques": 1
   }
 ]
