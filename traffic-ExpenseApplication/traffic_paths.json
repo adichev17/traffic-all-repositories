@@ -2,14 +2,8 @@
   {
     "path": "/adichev17/ExpenseApplication",
     "title": "GitHub - adichev17/ExpenseApplication: Mobile application for accounting of f...",
-    "count": 14,
+    "count": 10,
     "uniques": 4
-  },
-  {
-    "path": "/adichev17/ExpenseApplication/blob/master/project-development.txt",
-    "title": "ExpenseApplication/project-development.txt at master · adichev17/ExpenseAppli...",
-    "count": 3,
-    "uniques": 1
   },
   {
     "path": "/adichev17/ExpenseApplication/blob/b6f77929864daf3ab001e577f01972171f268a26/Microservices/ExpenseTracker/ExpenseTracker.API/Controllers/CategoryController.cs",
@@ -36,27 +30,33 @@
     "uniques": 1
   },
   {
-    "path": "/adichev17/ExpenseApplication/branches",
-    "title": "Branches · adichev17/ExpenseApplication",
-    "count": 2,
-    "uniques": 1
-  },
-  {
-    "path": "/adichev17/ExpenseApplication/commits/master",
-    "title": "Commits · adichev17/ExpenseApplication",
-    "count": 2,
-    "uniques": 1
-  },
-  {
-    "path": "/adichev17/ExpenseApplication/pull/3",
-    "title": "feat: :recycle: refactor code by adichev17 · Pull Request #3 · adichev17/Expe...",
-    "count": 2,
-    "uniques": 1
-  },
-  {
     "path": "/adichev17/ExpenseApplication/tree/master/MessageBus",
     "title": "ExpenseApplication/MessageBus at master · adichev17/ExpenseApplication · GitHub",
     "count": 2,
+    "uniques": 1
+  },
+  {
+    "path": "/adichev17/ExpenseApplication/tree/master/Microservices",
+    "title": "ExpenseApplication/Microservices at master · adichev17/ExpenseApplication",
+    "count": 2,
+    "uniques": 1
+  },
+  {
+    "path": "/adichev17/ExpenseApplication/tree/master/Microservices/ExpenseTracker",
+    "title": "ExpenseApplication/Microservices/ExpenseTracker at master · adichev17/Expense...",
+    "count": 2,
+    "uniques": 1
+  },
+  {
+    "path": "/adichev17/ExpenseApplication/tree/master/Microservices/ExpenseTracker/ExpenseTracker.API",
+    "title": "ExpenseApplication/Microservices/ExpenseTracker/ExpenseTracker.API at master ...",
+    "count": 2,
+    "uniques": 1
+  },
+  {
+    "path": "/adichev17/ExpenseApplication/branches",
+    "title": "Branches · adichev17/ExpenseApplication",
+    "count": 1,
     "uniques": 1
   }
 ]
