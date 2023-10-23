@@ -2,26 +2,8 @@
   {
     "path": "/adichev17/ExpenseApplication",
     "title": "GitHub - adichev17/ExpenseApplication: Mobile application for accounting of f...",
-    "count": 10,
-    "uniques": 4
-  },
-  {
-    "path": "/adichev17/ExpenseApplication/blob/b6f77929864daf3ab001e577f01972171f268a26/Microservices/ExpenseTracker/ExpenseTracker.API/Controllers/CategoryController.cs",
-    "title": "ExpenseApplication/Microservices/ExpenseTracker/ExpenseTracker.API/Controller...",
-    "count": 2,
-    "uniques": 1
-  },
-  {
-    "path": "/adichev17/ExpenseApplication/blob/b6f77929864daf3ab001e577f01972171f268a26/Microservices/ExpenseTracker/ExpenseTracker.API/Controllers/UserCategoryController.cs",
-    "title": "ExpenseApplication/Microservices/ExpenseTracker/ExpenseTracker.API/Controller...",
-    "count": 2,
-    "uniques": 1
-  },
-  {
-    "path": "/adichev17/ExpenseApplication/blob/b6f77929864daf3ab001e577f01972171f268a26/Microservices/FNS/FNSApi/Controllers/BarcodeController.cs",
-    "title": "ExpenseApplication/Microservices/FNS/FNSApi/Controllers/BarcodeController.cs ...",
-    "count": 2,
-    "uniques": 1
+    "count": 8,
+    "uniques": 5
   },
   {
     "path": "/adichev17/ExpenseApplication/blob/master/Microservices/ExpenseTracker/ExpenseTracker.API/Program.cs",
@@ -56,6 +38,24 @@
   {
     "path": "/adichev17/ExpenseApplication/branches",
     "title": "Branches · adichev17/ExpenseApplication",
+    "count": 1,
+    "uniques": 1
+  },
+  {
+    "path": "/adichev17/ExpenseApplication/compare/feature-add-health-checks",
+    "title": "Comparing master...feature-add-health-checks · adichev17/ExpenseApplication",
+    "count": 1,
+    "uniques": 1
+  },
+  {
+    "path": "/adichev17/ExpenseApplication/pull/4",
+    "title": "Feature add health checks by adichev17 · Pull Request #4 · adichev17/ExpenseA...",
+    "count": 1,
+    "uniques": 1
+  },
+  {
+    "path": "/adichev17/ExpenseApplication/pull/4/files",
+    "title": "Feature add health checks by adichev17 · Pull Request #4 · adichev17/ExpenseA...",
     "count": 1,
     "uniques": 1
   }
