@@ -2,8 +2,14 @@
   {
     "path": "/adichev17/ExpenseApplication",
     "title": "GitHub - adichev17/ExpenseApplication: Mobile application for accounting of f...",
-    "count": 8,
+    "count": 9,
     "uniques": 5
+  },
+  {
+    "path": "/adichev17/ExpenseApplication/tree/master/Microservices",
+    "title": "ExpenseApplication/Microservices at master · adichev17/ExpenseApplication",
+    "count": 4,
+    "uniques": 2
   },
   {
     "path": "/adichev17/ExpenseApplication/blob/master/Microservices/ExpenseTracker/ExpenseTracker.API/Program.cs",
@@ -14,12 +20,6 @@
   {
     "path": "/adichev17/ExpenseApplication/tree/master/MessageBus",
     "title": "ExpenseApplication/MessageBus at master · adichev17/ExpenseApplication · GitHub",
-    "count": 2,
-    "uniques": 1
-  },
-  {
-    "path": "/adichev17/ExpenseApplication/tree/master/Microservices",
-    "title": "ExpenseApplication/Microservices at master · adichev17/ExpenseApplication",
     "count": 2,
     "uniques": 1
   },
@@ -36,6 +36,18 @@
     "uniques": 1
   },
   {
+    "path": "/adichev17/ExpenseApplication/tree/master/Microservices/FNS/FNSApi",
+    "title": "ExpenseApplication/Microservices/FNS/FNSApi at master · adichev17/ExpenseAppl...",
+    "count": 2,
+    "uniques": 1
+  },
+  {
+    "path": "/adichev17/ExpenseApplication/tree/master/OcelotGateway",
+    "title": "ExpenseApplication/OcelotGateway at master · adichev17/ExpenseApplication",
+    "count": 2,
+    "uniques": 1
+  },
+  {
     "path": "/adichev17/ExpenseApplication/branches",
     "title": "Branches · adichev17/ExpenseApplication",
     "count": 1,
@@ -44,18 +56,6 @@
   {
     "path": "/adichev17/ExpenseApplication/compare/feature-add-health-checks",
     "title": "Comparing master...feature-add-health-checks · adichev17/ExpenseApplication",
-    "count": 1,
-    "uniques": 1
-  },
-  {
-    "path": "/adichev17/ExpenseApplication/pull/4",
-    "title": "Feature add health checks by adichev17 · Pull Request #4 · adichev17/ExpenseA...",
-    "count": 1,
-    "uniques": 1
-  },
-  {
-    "path": "/adichev17/ExpenseApplication/pull/4/files",
-    "title": "Feature add health checks by adichev17 · Pull Request #4 · adichev17/ExpenseA...",
     "count": 1,
     "uniques": 1
   }
