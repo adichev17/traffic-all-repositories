@@ -2,20 +2,8 @@
   {
     "path": "/adichev17/ExpenseApplication",
     "title": "GitHub - adichev17/ExpenseApplication: Mobile application for accounting of f...",
-    "count": 7,
-    "uniques": 6
-  },
-  {
-    "path": "/adichev17/ExpenseApplication/tree/master/Microservices",
-    "title": "ExpenseApplication/Microservices at master · adichev17/ExpenseApplication",
-    "count": 4,
-    "uniques": 2
-  },
-  {
-    "path": "/adichev17/ExpenseApplication/blob/master/Microservices/ExpenseTracker/ExpenseTracker.API/Program.cs",
-    "title": "ExpenseApplication/Microservices/ExpenseTracker/ExpenseTracker.API/Program.cs...",
-    "count": 2,
-    "uniques": 1
+    "count": 6,
+    "uniques": 5
   },
   {
     "path": "/adichev17/ExpenseApplication/tree/master/MessageBus",
@@ -24,14 +12,8 @@
     "uniques": 1
   },
   {
-    "path": "/adichev17/ExpenseApplication/tree/master/Microservices/ExpenseTracker",
-    "title": "ExpenseApplication/Microservices/ExpenseTracker at master · adichev17/Expense...",
-    "count": 2,
-    "uniques": 1
-  },
-  {
-    "path": "/adichev17/ExpenseApplication/tree/master/Microservices/ExpenseTracker/ExpenseTracker.API",
-    "title": "ExpenseApplication/Microservices/ExpenseTracker/ExpenseTracker.API at master ...",
+    "path": "/adichev17/ExpenseApplication/tree/master/Microservices",
+    "title": "ExpenseApplication/Microservices at master · adichev17/ExpenseApplication",
     "count": 2,
     "uniques": 1
   },
