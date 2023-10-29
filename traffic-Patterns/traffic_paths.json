@@ -48,14 +48,14 @@
     "uniques": 1
   },
   {
-    "path": "/adichev17/Patterns",
-    "title": "GitHub - adichev17/Patterns: Сheat sheet for patterns",
-    "count": 2,
-    "uniques": 2
-  },
-  {
     "path": "/adichev17/Patterns/blob/master/Patterns/Adapter/Example/SquareToRectangleAdapter.cs",
     "title": "Patterns/Patterns/Adapter/Example/SquareToRectangleAdapter.cs at master · adi...",
+    "count": 2,
+    "uniques": 1
+  },
+  {
+    "path": "/adichev17/Patterns/blob/master/Patterns/Decorator/FirstExample/ColoredShape.cs",
+    "title": "Patterns/Patterns/Decorator/FirstExample/ColoredShape.cs at master · adichev1...",
     "count": 2,
     "uniques": 1
   }
