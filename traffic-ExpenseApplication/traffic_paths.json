@@ -1,19 +1,55 @@
 [
   {
+    "path": "/adichev17/ExpenseApplication/tree/master/Microservices/Authentication",
+    "title": "ExpenseApplication/Microservices/Authentication at master · adichev17/Expense...",
+    "count": 5,
+    "uniques": 1
+  },
+  {
     "path": "/adichev17/ExpenseApplication",
-    "title": "GitHub - adichev17/ExpenseApplication: Mobile application for accounting of f...",
+    "title": "adichev17/ExpenseApplication: Mobile application for accounting of finances, ...",
     "count": 4,
     "uniques": 3
   },
   {
-    "path": "/adichev17/ExpenseApplication/tree/master/MessageBus",
-    "title": "ExpenseApplication/MessageBus at master · adichev17/ExpenseApplication · GitHub",
+    "path": "/adichev17/ExpenseApplication/tree/master/Microservices",
+    "title": "ExpenseApplication/Microservices at master · adichev17/ExpenseApplication",
+    "count": 4,
+    "uniques": 2
+  },
+  {
+    "path": "/adichev17/ExpenseApplication/tree/master/Microservices/Authentication/AuthenticationApiService/Mapping",
+    "title": "ExpenseApplication/Microservices/Authentication/AuthenticationApiService/Mapp...",
+    "count": 4,
+    "uniques": 1
+  },
+  {
+    "path": "/adichev17/ExpenseApplication/tree/master/Microservices/Authentication/AuthenticationApiService",
+    "title": "ExpenseApplication/Microservices/Authentication/AuthenticationApiService at m...",
+    "count": 3,
+    "uniques": 1
+  },
+  {
+    "path": "/adichev17/ExpenseApplication/tree/master/Microservices/Authentication/AuthenticationApiService/Mapping/Messages",
+    "title": "ExpenseApplication/Microservices/Authentication/AuthenticationApiService/Mapp...",
+    "count": 3,
+    "uniques": 1
+  },
+  {
+    "path": "/adichev17/ExpenseApplication/tree/master/Microservices/Authentication/Authentication.Application",
+    "title": "ExpenseApplication/Microservices/Authentication/Authentication.Application at...",
+    "count": 3,
+    "uniques": 1
+  },
+  {
+    "path": "/adichev17/ExpenseApplication/blob/master/Microservices/Authentication/AuthenticationApiService/Mapping/DependencyInjection.cs",
+    "title": "ExpenseApplication/Microservices/Authentication/AuthenticationApiService/Mapp...",
     "count": 2,
     "uniques": 1
   },
   {
-    "path": "/adichev17/ExpenseApplication/tree/master/Microservices",
-    "title": "ExpenseApplication/Microservices at master · adichev17/ExpenseApplication",
+    "path": "/adichev17/ExpenseApplication/blob/master/Microservices/Authentication/AuthenticationApiService/Mapping/Messages/CreateUserDtoMappingProfile.cs",
+    "title": "ExpenseApplication/Microservices/Authentication/AuthenticationApiService/Mapp...",
     "count": 2,
     "uniques": 1
   },
@@ -21,18 +57,6 @@
     "path": "/adichev17/ExpenseApplication/tree/master/Microservices/FNS/FNSApi",
     "title": "ExpenseApplication/Microservices/FNS/FNSApi at master · adichev17/ExpenseAppl...",
     "count": 2,
-    "uniques": 1
-  },
-  {
-    "path": "/adichev17/ExpenseApplication/tree/master/OcelotGateway",
-    "title": "ExpenseApplication/OcelotGateway at master · adichev17/ExpenseApplication",
-    "count": 2,
-    "uniques": 1
-  },
-  {
-    "path": "/adichev17/ExpenseApplication/tree/master",
-    "title": "adichev17/ExpenseApplication: Mobile application for accounting of finances, ...",
-    "count": 1,
     "uniques": 1
   }
 ]
