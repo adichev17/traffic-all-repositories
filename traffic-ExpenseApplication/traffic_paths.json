@@ -6,16 +6,16 @@
     "uniques": 2
   },
   {
-    "path": "/adichev17/ExpenseApplication",
-    "title": "adichev17/ExpenseApplication: Mobile application for accounting of finances, ...",
-    "count": 5,
-    "uniques": 3
-  },
-  {
     "path": "/adichev17/ExpenseApplication/tree/master/Microservices/Authentication",
     "title": "ExpenseApplication/Microservices/Authentication at master · adichev17/Expense...",
     "count": 5,
     "uniques": 1
+  },
+  {
+    "path": "/adichev17/ExpenseApplication",
+    "title": "adichev17/ExpenseApplication: Mobile application for accounting of finances, ...",
+    "count": 4,
+    "uniques": 3
   },
   {
     "path": "/adichev17/ExpenseApplication/tree/master/Microservices/Authentication/AuthenticationApiService/Mapping",
