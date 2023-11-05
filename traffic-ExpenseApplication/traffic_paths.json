@@ -1,27 +1,27 @@
 [
   {
-    "path": "/adichev17/ExpenseApplication/tree/master/Microservices",
-    "title": "ExpenseApplication/Microservices at master · adichev17/ExpenseApplication",
-    "count": 6,
-    "uniques": 2
-  },
-  {
     "path": "/adichev17/ExpenseApplication/tree/master/Microservices/Authentication",
     "title": "ExpenseApplication/Microservices/Authentication at master · adichev17/Expense...",
     "count": 5,
     "uniques": 1
   },
   {
-    "path": "/adichev17/ExpenseApplication",
-    "title": "adichev17/ExpenseApplication: Mobile application for accounting of finances, ...",
+    "path": "/adichev17/ExpenseApplication/tree/master/Microservices",
+    "title": "ExpenseApplication/Microservices at master · adichev17/ExpenseApplication",
     "count": 4,
-    "uniques": 3
+    "uniques": 1
   },
   {
     "path": "/adichev17/ExpenseApplication/tree/master/Microservices/Authentication/AuthenticationApiService/Mapping",
     "title": "ExpenseApplication/Microservices/Authentication/AuthenticationApiService/Mapp...",
     "count": 4,
     "uniques": 1
+  },
+  {
+    "path": "/adichev17/ExpenseApplication",
+    "title": "adichev17/ExpenseApplication: Mobile application for accounting of finances, ...",
+    "count": 3,
+    "uniques": 2
   },
   {
     "path": "/adichev17/ExpenseApplication/tree/master/Microservices/Authentication/AuthenticationApiService",
