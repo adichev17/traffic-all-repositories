@@ -1,20 +1,32 @@
 [
   {
+    "path": "/adichev17/ExpenseApplication/tree/master/Microservices",
+    "title": "ExpenseApplication/Microservices at master · adichev17/ExpenseApplication",
+    "count": 6,
+    "uniques": 1
+  },
+  {
     "path": "/adichev17/ExpenseApplication/tree/master/Microservices/Authentication",
     "title": "ExpenseApplication/Microservices/Authentication at master · adichev17/Expense...",
     "count": 5,
     "uniques": 1
   },
   {
-    "path": "/adichev17/ExpenseApplication/tree/master/Microservices",
-    "title": "ExpenseApplication/Microservices at master · adichev17/ExpenseApplication",
+    "path": "/adichev17/ExpenseApplication/tree/master/Microservices/Authentication/AuthenticationApiService/Mapping",
+    "title": "ExpenseApplication/Microservices/Authentication/AuthenticationApiService/Mapp...",
     "count": 4,
     "uniques": 1
   },
   {
-    "path": "/adichev17/ExpenseApplication/tree/master/Microservices/Authentication/AuthenticationApiService/Mapping",
-    "title": "ExpenseApplication/Microservices/Authentication/AuthenticationApiService/Mapp...",
+    "path": "/adichev17/ExpenseApplication/tree/master/Microservices/ExpenseTracker",
+    "title": "ExpenseApplication/Microservices/ExpenseTracker at master · adichev17/Expense...",
     "count": 4,
+    "uniques": 1
+  },
+  {
+    "path": "/adichev17/ExpenseApplication",
+    "title": "adichev17/ExpenseApplication: Mobile application for accounting of finances, ...",
+    "count": 3,
     "uniques": 1
   },
   {
@@ -36,26 +48,14 @@
     "uniques": 1
   },
   {
-    "path": "/adichev17/ExpenseApplication",
-    "title": "adichev17/ExpenseApplication: Mobile application for accounting of finances, ...",
-    "count": 2,
+    "path": "/adichev17/ExpenseApplication/tree/master/Microservices/ExpenseTracker/ExpenseTracker.Domain",
+    "title": "ExpenseApplication/Microservices/ExpenseTracker/ExpenseTracker.Domain at mast...",
+    "count": 3,
     "uniques": 1
   },
   {
     "path": "/adichev17/ExpenseApplication/blob/master/Microservices/Authentication/AuthenticationApiService/Mapping/DependencyInjection.cs",
     "title": "ExpenseApplication/Microservices/Authentication/AuthenticationApiService/Mapp...",
-    "count": 2,
-    "uniques": 1
-  },
-  {
-    "path": "/adichev17/ExpenseApplication/blob/master/Microservices/Authentication/AuthenticationApiService/Mapping/Messages/CreateUserDtoMappingProfile.cs",
-    "title": "ExpenseApplication/Microservices/Authentication/AuthenticationApiService/Mapp...",
-    "count": 2,
-    "uniques": 1
-  },
-  {
-    "path": "/adichev17/ExpenseApplication/blob/master/Microservices/ExpenseTracker/ExpenseTracker.API/Common/Http/HttpContextItemKeys.cs",
-    "title": "ExpenseApplication/Microservices/ExpenseTracker/ExpenseTracker.API/Common/Htt...",
     "count": 2,
     "uniques": 1
   }
