@@ -2,49 +2,19 @@
   {
     "path": "/adichev17/ExpenseApplication/tree/master/Microservices",
     "title": "ExpenseApplication/Microservices at master · adichev17/ExpenseApplication",
-    "count": 10,
+    "count": 8,
     "uniques": 1
   },
   {
     "path": "/adichev17/ExpenseApplication",
     "title": "adichev17/ExpenseApplication: Mobile application for accounting of finances, ...",
-    "count": 5,
-    "uniques": 2
-  },
-  {
-    "path": "/adichev17/ExpenseApplication/tree/master/Microservices/Authentication",
-    "title": "ExpenseApplication/Microservices/Authentication at master · adichev17/Expense...",
-    "count": 5,
-    "uniques": 1
-  },
-  {
-    "path": "/adichev17/ExpenseApplication/tree/master/Microservices/Authentication/AuthenticationApiService/Mapping",
-    "title": "ExpenseApplication/Microservices/Authentication/AuthenticationApiService/Mapp...",
     "count": 4,
-    "uniques": 1
+    "uniques": 2
   },
   {
     "path": "/adichev17/ExpenseApplication/tree/master/Microservices/ExpenseTracker",
     "title": "ExpenseApplication/Microservices/ExpenseTracker at master · adichev17/Expense...",
     "count": 4,
-    "uniques": 1
-  },
-  {
-    "path": "/adichev17/ExpenseApplication/tree/master/Microservices/Authentication/AuthenticationApiService",
-    "title": "ExpenseApplication/Microservices/Authentication/AuthenticationApiService at m...",
-    "count": 3,
-    "uniques": 1
-  },
-  {
-    "path": "/adichev17/ExpenseApplication/tree/master/Microservices/Authentication/AuthenticationApiService/Mapping/Messages",
-    "title": "ExpenseApplication/Microservices/Authentication/AuthenticationApiService/Mapp...",
-    "count": 3,
-    "uniques": 1
-  },
-  {
-    "path": "/adichev17/ExpenseApplication/tree/master/Microservices/Authentication/Authentication.Application",
-    "title": "ExpenseApplication/Microservices/Authentication/Authentication.Application at...",
-    "count": 3,
     "uniques": 1
   },
   {
@@ -57,6 +27,36 @@
     "path": "/adichev17/ExpenseApplication/tree/master/Microservices/FNS/FNSApi",
     "title": "ExpenseApplication/Microservices/FNS/FNSApi at master · adichev17/ExpenseAppl...",
     "count": 3,
+    "uniques": 1
+  },
+  {
+    "path": "/adichev17/ExpenseApplication/tree/master/Microservices/FNS/FNSApi/Services",
+    "title": "ExpenseApplication/Microservices/FNS/FNSApi/Services at master · adichev17/Ex...",
+    "count": 3,
+    "uniques": 1
+  },
+  {
+    "path": "/adichev17/ExpenseApplication/blob/master/Microservices/ExpenseTracker/ExpenseTracker.API/Common/Http/HttpContextItemKeys.cs",
+    "title": "ExpenseApplication/Microservices/ExpenseTracker/ExpenseTracker.API/Common/Htt...",
+    "count": 2,
+    "uniques": 1
+  },
+  {
+    "path": "/adichev17/ExpenseApplication/blob/master/Microservices/FNS/FNSApi/Services/FnsHttpService.cs",
+    "title": "ExpenseApplication/Microservices/FNS/FNSApi/Services/FnsHttpService.cs at mas...",
+    "count": 2,
+    "uniques": 1
+  },
+  {
+    "path": "/adichev17/ExpenseApplication/tree/master/MessageBus",
+    "title": "ExpenseApplication/MessageBus at master · adichev17/ExpenseApplication",
+    "count": 2,
+    "uniques": 1
+  },
+  {
+    "path": "/adichev17/ExpenseApplication/tree/master/Microservices/ExpenseTracker/ExpenseTracker.API",
+    "title": "ExpenseApplication/Microservices/ExpenseTracker/ExpenseTracker.API at master ...",
+    "count": 2,
     "uniques": 1
   }
 ]
