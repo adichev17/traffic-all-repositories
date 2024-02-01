@@ -1,1 +1,44 @@
-[]
+[
+  {
+    "path": "/adichev17/ExpenseApplication/tree/master/Microservices",
+    "title": "ExpenseApplication/Microservices at master · adichev17/ExpenseApplication",
+    "count": 6,
+    "uniques": 1
+  },
+  {
+    "path": "/adichev17/ExpenseApplication/tree/master/Microservices/Authentication",
+    "title": "ExpenseApplication/Microservices/Authentication at master · adichev17/Expense...",
+    "count": 3,
+    "uniques": 1
+  },
+  {
+    "path": "/adichev17/ExpenseApplication/tree/master/Microservices/ExpenseTracker",
+    "title": "ExpenseApplication/Microservices/ExpenseTracker at master · adichev17/Expense...",
+    "count": 3,
+    "uniques": 1
+  },
+  {
+    "path": "/adichev17/ExpenseApplication/tree/master/Microservices/ExpenseTracker/ExpenseTracker.Application",
+    "title": "ExpenseApplication/Microservices/ExpenseTracker/ExpenseTracker.Application at...",
+    "count": 3,
+    "uniques": 1
+  },
+  {
+    "path": "/adichev17/ExpenseApplication/blob/master/Microservices/ExpenseTracker/ExpenseTracker.Application/DependencyInjection.cs",
+    "title": "ExpenseApplication/Microservices/ExpenseTracker/ExpenseTracker.Application/De...",
+    "count": 2,
+    "uniques": 1
+  },
+  {
+    "path": "/adichev17/ExpenseApplication/blob/master/Microservices/ExpenseTracker/ExpenseTracker.Infrastructure/DependencyInjection.cs",
+    "title": "ExpenseApplication/Microservices/ExpenseTracker/ExpenseTracker.Infrastructure...",
+    "count": 2,
+    "uniques": 1
+  },
+  {
+    "path": "/adichev17/ExpenseApplication",
+    "title": "adichev17/ExpenseApplication: Mobile application for accounting of finances, ...",
+    "count": 1,
+    "uniques": 1
+  }
+]
