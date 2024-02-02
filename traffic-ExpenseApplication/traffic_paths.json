@@ -2,12 +2,30 @@
   {
     "path": "/adichev17/ExpenseApplication/tree/master/Microservices",
     "title": "ExpenseApplication/Microservices at master · adichev17/ExpenseApplication",
-    "count": 6,
+    "count": 10,
     "uniques": 1
   },
   {
     "path": "/adichev17/ExpenseApplication/tree/master/Microservices/Authentication",
     "title": "ExpenseApplication/Microservices/Authentication at master · adichev17/Expense...",
+    "count": 6,
+    "uniques": 1
+  },
+  {
+    "path": "/adichev17/ExpenseApplication/tree/master/Microservices/Authentication/Authentication.Application",
+    "title": "ExpenseApplication/Microservices/Authentication/Authentication.Application at...",
+    "count": 6,
+    "uniques": 1
+  },
+  {
+    "path": "/adichev17/ExpenseApplication",
+    "title": "adichev17/ExpenseApplication: Mobile application for accounting of finances, ...",
+    "count": 4,
+    "uniques": 1
+  },
+  {
+    "path": "/adichev17/ExpenseApplication/tree/master/Microservices/Authentication/Authentication.Application/Authentication",
+    "title": "ExpenseApplication/Microservices/Authentication/Authentication.Application/Au...",
     "count": 3,
     "uniques": 1
   },
@@ -24,21 +42,21 @@
     "uniques": 1
   },
   {
-    "path": "/adichev17/ExpenseApplication/blob/master/Microservices/ExpenseTracker/ExpenseTracker.Application/DependencyInjection.cs",
-    "title": "ExpenseApplication/Microservices/ExpenseTracker/ExpenseTracker.Application/De...",
-    "count": 2,
+    "path": "/adichev17/ExpenseApplication/tree/master/Microservices/FNS/FNSApi",
+    "title": "ExpenseApplication/Microservices/FNS/FNSApi at master · adichev17/ExpenseAppl...",
+    "count": 3,
     "uniques": 1
   },
   {
-    "path": "/adichev17/ExpenseApplication/blob/master/Microservices/ExpenseTracker/ExpenseTracker.Infrastructure/DependencyInjection.cs",
-    "title": "ExpenseApplication/Microservices/ExpenseTracker/ExpenseTracker.Infrastructure...",
-    "count": 2,
+    "path": "/adichev17/ExpenseApplication/tree/master/Microservices/FNS/FNSApi/Services",
+    "title": "ExpenseApplication/Microservices/FNS/FNSApi/Services at master · adichev17/Ex...",
+    "count": 3,
     "uniques": 1
   },
   {
-    "path": "/adichev17/ExpenseApplication",
-    "title": "adichev17/ExpenseApplication: Mobile application for accounting of finances, ...",
-    "count": 1,
+    "path": "/adichev17/ExpenseApplication/tree/master/OcelotGateway",
+    "title": "ExpenseApplication/OcelotGateway at master · adichev17/ExpenseApplication",
+    "count": 3,
     "uniques": 1
   }
 ]
