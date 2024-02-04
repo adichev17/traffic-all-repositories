@@ -24,6 +24,18 @@
     "uniques": 1
   },
   {
+    "path": "/adichev17/ExpenseApplication/blob/master/Microservices/ExpenseTracker/ExpenseTracker.API/Program.cs",
+    "title": "ExpenseApplication/Microservices/ExpenseTracker/ExpenseTracker.API/Program.cs...",
+    "count": 4,
+    "uniques": 1
+  },
+  {
+    "path": "/adichev17/ExpenseApplication/blob/master/Microservices/FNS/FNSApi/Common/Http/FnsHttp.cs",
+    "title": "ExpenseApplication/Microservices/FNS/FNSApi/Common/Http/FnsHttp.cs at master ...",
+    "count": 4,
+    "uniques": 1
+  },
+  {
     "path": "/adichev17/ExpenseApplication/tree/master/Microservices/Authentication/Authentication.Application/Authentication",
     "title": "ExpenseApplication/Microservices/Authentication/Authentication.Application/Au...",
     "count": 3,
@@ -44,18 +56,6 @@
   {
     "path": "/adichev17/ExpenseApplication/tree/master/Microservices/FNS/FNSApi",
     "title": "ExpenseApplication/Microservices/FNS/FNSApi at master · adichev17/ExpenseAppl...",
-    "count": 3,
-    "uniques": 1
-  },
-  {
-    "path": "/adichev17/ExpenseApplication/tree/master/Microservices/FNS/FNSApi/Services",
-    "title": "ExpenseApplication/Microservices/FNS/FNSApi/Services at master · adichev17/Ex...",
-    "count": 3,
-    "uniques": 1
-  },
-  {
-    "path": "/adichev17/ExpenseApplication/tree/master/OcelotGateway",
-    "title": "ExpenseApplication/OcelotGateway at master · adichev17/ExpenseApplication",
     "count": 3,
     "uniques": 1
   }
