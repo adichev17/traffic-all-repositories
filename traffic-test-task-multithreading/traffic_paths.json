@@ -1,1 +1,62 @@
-[]
+[
+  {
+    "path": "/adichev17/test-task-multithreading/blob/master/src/FileFolderWatcher/Services/FileCreatedStrategy.cs",
+    "title": "test-task-multithreading/src/FileFolderWatcher/Services/FileCreatedStrategy.c...",
+    "count": 4,
+    "uniques": 1
+  },
+  {
+    "path": "/adichev17/test-task-multithreading/tree/master/src/FileFolderWatcher/Interfaces",
+    "title": "test-task-multithreading/src/FileFolderWatcher/Interfaces at master · adichev...",
+    "count": 4,
+    "uniques": 1
+  },
+  {
+    "path": "/adichev17/test-task-multithreading/tree/master/src/FileFolderWatcher",
+    "title": "test-task-multithreading/src/FileFolderWatcher at master · adichev17/test-tas...",
+    "count": 3,
+    "uniques": 1
+  },
+  {
+    "path": "/adichev17/test-task-multithreading",
+    "title": "adichev17/test-task-multithreading: Execution of a test task .net dev.",
+    "count": 2,
+    "uniques": 1
+  },
+  {
+    "path": "/adichev17/test-task-multithreading/blob/master/src/FileFolderWatcher/Interfaces/IFileOperationStrategy.cs",
+    "title": "test-task-multithreading/src/FileFolderWatcher/Interfaces/IFileOperationStrat...",
+    "count": 2,
+    "uniques": 1
+  },
+  {
+    "path": "/adichev17/test-task-multithreading/blob/master/src/FileFolderWatcher/Interfaces/IFileTypeSpecification.cs",
+    "title": "test-task-multithreading/src/FileFolderWatcher/Interfaces/IFileTypeSpecificat...",
+    "count": 2,
+    "uniques": 1
+  },
+  {
+    "path": "/adichev17/test-task-multithreading/blob/master/src/FileFolderWatcher/Services/FileHandlers/Decorators/FilePunctuationMarkHandler.cs",
+    "title": "test-task-multithreading/src/FileFolderWatcher/Services/FileHandlers/Decorato...",
+    "count": 2,
+    "uniques": 1
+  },
+  {
+    "path": "/adichev17/test-task-multithreading/blob/master/src/FileFolderWatcher/Services/FileHandlers/Files/CssFileDataSource.cs",
+    "title": "test-task-multithreading/src/FileFolderWatcher/Services/FileHandlers/Files/Cs...",
+    "count": 2,
+    "uniques": 1
+  },
+  {
+    "path": "/adichev17/test-task-multithreading/blob/master/src/FileFolderWatcher/Services/FileHandlers/Files/HtmlFileDataSource.cs",
+    "title": "test-task-multithreading/src/FileFolderWatcher/Services/FileHandlers/Files/Ht...",
+    "count": 2,
+    "uniques": 1
+  },
+  {
+    "path": "/adichev17/test-task-multithreading/blob/master/src/FileFolderWatcher/Services/FileWatcher.cs",
+    "title": "test-task-multithreading/src/FileFolderWatcher/Services/FileWatcher.cs at mas...",
+    "count": 2,
+    "uniques": 1
+  }
+]
