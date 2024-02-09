@@ -2,31 +2,61 @@
   {
     "path": "/adichev17/Patterns/blob/master/Patterns/Builder/Builder.cs",
     "title": "Patterns/Patterns/Builder/Builder.cs at master · adichev17/Patterns",
-    "count": 4,
+    "count": 6,
     "uniques": 1
   },
   {
     "path": "/adichev17/Patterns/blob/master/PattersTests/BuilderTests.cs",
     "title": "Patterns/PattersTests/BuilderTests.cs at master · adichev17/Patterns",
-    "count": 2,
+    "count": 4,
     "uniques": 1
   },
   {
     "path": "/adichev17/Patterns/tree/master/Patterns",
     "title": "Patterns/Patterns at master · adichev17/Patterns",
-    "count": 2,
+    "count": 4,
     "uniques": 1
   },
   {
     "path": "/adichev17/Patterns/tree/master/Patterns/Builder",
     "title": "Patterns/Patterns/Builder at master · adichev17/Patterns",
-    "count": 2,
+    "count": 4,
     "uniques": 1
   },
   {
     "path": "/adichev17/Patterns",
     "title": "adichev17/Patterns: Сheat sheet for patterns",
-    "count": 1,
+    "count": 2,
+    "uniques": 1
+  },
+  {
+    "path": "/adichev17/Patterns/blob/master/Patterns/Bridge/Circle.cs",
+    "title": "Patterns/Patterns/Bridge/Circle.cs at master · adichev17/Patterns",
+    "count": 2,
+    "uniques": 1
+  },
+  {
+    "path": "/adichev17/Patterns/blob/master/Patterns/State/StatelessLightSwitch.cs",
+    "title": "Patterns/Patterns/State/StatelessLightSwitch.cs at master · adichev17/Patterns",
+    "count": 2,
+    "uniques": 1
+  },
+  {
+    "path": "/adichev17/Patterns/tree/master/Patterns/Observer",
+    "title": "Patterns/Patterns/Observer at master · adichev17/Patterns",
+    "count": 2,
+    "uniques": 1
+  },
+  {
+    "path": "/adichev17/Patterns/tree/master/Patterns/Prototype",
+    "title": "Patterns/Patterns/Prototype at master · adichev17/Patterns",
+    "count": 2,
+    "uniques": 1
+  },
+  {
+    "path": "/adichev17/Patterns/tree/master/Patterns/Proxy",
+    "title": "Patterns/Patterns/Proxy at master · adichev17/Patterns",
+    "count": 2,
     "uniques": 1
   }
 ]
