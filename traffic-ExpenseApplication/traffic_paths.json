@@ -2,7 +2,19 @@
   {
     "path": "/adichev17/ExpenseApplication/tree/master/Microservices",
     "title": "ExpenseApplication/Microservices at master · adichev17/ExpenseApplication",
-    "count": 10,
+    "count": 13,
+    "uniques": 1
+  },
+  {
+    "path": "/adichev17/ExpenseApplication/tree/master/Microservices/ExpenseTracker",
+    "title": "ExpenseApplication/Microservices/ExpenseTracker at master · adichev17/Expense...",
+    "count": 7,
+    "uniques": 1
+  },
+  {
+    "path": "/adichev17/ExpenseApplication",
+    "title": "adichev17/ExpenseApplication: Mobile application for accounting of finances, ...",
+    "count": 6,
     "uniques": 1
   },
   {
@@ -18,8 +30,8 @@
     "uniques": 1
   },
   {
-    "path": "/adichev17/ExpenseApplication",
-    "title": "adichev17/ExpenseApplication: Mobile application for accounting of finances, ...",
+    "path": "/adichev17/ExpenseApplication/tree/master/Microservices/ExpenseTracker/ExpenseTracker.Application",
+    "title": "ExpenseApplication/Microservices/ExpenseTracker/ExpenseTracker.Application at...",
     "count": 5,
     "uniques": 1
   },
@@ -36,26 +48,14 @@
     "uniques": 1
   },
   {
-    "path": "/adichev17/ExpenseApplication/tree/master/Microservices/Authentication/Authentication.Application/Authentication",
-    "title": "ExpenseApplication/Microservices/Authentication/Authentication.Application/Au...",
+    "path": "/adichev17/ExpenseApplication/tree/master/MessageBus",
+    "title": "ExpenseApplication/MessageBus at master · adichev17/ExpenseApplication",
     "count": 3,
     "uniques": 1
   },
   {
-    "path": "/adichev17/ExpenseApplication/tree/master/Microservices/ExpenseTracker",
-    "title": "ExpenseApplication/Microservices/ExpenseTracker at master · adichev17/Expense...",
-    "count": 3,
-    "uniques": 1
-  },
-  {
-    "path": "/adichev17/ExpenseApplication/tree/master/Microservices/ExpenseTracker/ExpenseTracker.Application",
-    "title": "ExpenseApplication/Microservices/ExpenseTracker/ExpenseTracker.Application at...",
-    "count": 3,
-    "uniques": 1
-  },
-  {
-    "path": "/adichev17/ExpenseApplication/tree/master/Microservices/FNS/FNSApi",
-    "title": "ExpenseApplication/Microservices/FNS/FNSApi at master · adichev17/ExpenseAppl...",
+    "path": "/adichev17/ExpenseApplication/tree/master/MessageBus/RabbitMQProducers",
+    "title": "ExpenseApplication/MessageBus/RabbitMQProducers at master · adichev17/Expense...",
     "count": 3,
     "uniques": 1
   }
