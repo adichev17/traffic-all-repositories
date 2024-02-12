@@ -6,38 +6,14 @@
     "uniques": 1
   },
   {
-    "path": "/adichev17/MangoRestarauntCoffee.Microservices/tree/master/Mnago.Services.Identity/Services",
-    "title": "MangoRestarauntCoffee.Microservices/Mnago.Services.Identity/Services at maste...",
-    "count": 5,
-    "uniques": 1
-  },
-  {
     "path": "/adichev17/MangoRestarauntCoffee.Microservices",
     "title": "adichev17/MangoRestarauntCoffee.Microservices: Online store on microservice a...",
-    "count": 4,
+    "count": 3,
     "uniques": 3
-  },
-  {
-    "path": "/adichev17/MangoRestarauntCoffee.Microservices/blob/master/Mnago.Services.Identity/Services/ProfileService.cs",
-    "title": "MangoRestarauntCoffee.Microservices/Mnago.Services.Identity/Services/ProfileS...",
-    "count": 4,
-    "uniques": 1
-  },
-  {
-    "path": "/adichev17/MangoRestarauntCoffee.Microservices/tree/master/Mnago.Services.Identity",
-    "title": "MangoRestarauntCoffee.Microservices/Mnago.Services.Identity at master · adich...",
-    "count": 4,
-    "uniques": 1
   },
   {
     "path": "/adichev17/MangoRestarauntCoffee.Microservices/tree/master/Mango.Gateway",
     "title": "MangoRestarauntCoffee.Microservices/Mango.Gateway at master · adichev17/Mango...",
-    "count": 3,
-    "uniques": 1
-  },
-  {
-    "path": "/adichev17/MangoRestarauntCoffee.Microservices/tree/master/Mnago.Services.Identity/Initializer",
-    "title": "MangoRestarauntCoffee.Microservices/Mnago.Services.Identity/Initializer at ma...",
     "count": 3,
     "uniques": 1
   },
@@ -54,8 +30,8 @@
     "uniques": 1
   },
   {
-    "path": "/adichev17/MangoRestarauntCoffee.Microservices/blob/master/Mnago.Services.Identity/Initializer/IDbInitializer.cs",
-    "title": "MangoRestarauntCoffee.Microservices/Mnago.Services.Identity/Initializer/IDbIn...",
+    "path": "/adichev17/MangoRestarauntCoffee.Microservices/tree/master/MangoMessageBus",
+    "title": "MangoRestarauntCoffee.Microservices/MangoMessageBus at master · adichev17/Man...",
     "count": 2,
     "uniques": 1
   }
