@@ -1,37 +1,19 @@
 [
   {
-    "path": "/adichev17/MangoRestarauntCoffee.Microservices/tree/master/Mango.Web",
-    "title": "MangoRestarauntCoffee.Microservices/Mango.Web at master · adichev17/MangoRest...",
-    "count": 5,
-    "uniques": 1
-  },
-  {
     "path": "/adichev17/MangoRestarauntCoffee.Microservices",
     "title": "adichev17/MangoRestarauntCoffee.Microservices: Online store on microservice a...",
-    "count": 3,
-    "uniques": 3
-  },
-  {
-    "path": "/adichev17/MangoRestarauntCoffee.Microservices/tree/master/Mango.Gateway",
-    "title": "MangoRestarauntCoffee.Microservices/Mango.Gateway at master · adichev17/Mango...",
-    "count": 3,
-    "uniques": 1
-  },
-  {
-    "path": "/adichev17/MangoRestarauntCoffee.Microservices/blob/master/Mango.Gateway/appsettings.json",
-    "title": "MangoRestarauntCoffee.Microservices/Mango.Gateway/appsettings.json at master ...",
     "count": 2,
-    "uniques": 1
-  },
-  {
-    "path": "/adichev17/MangoRestarauntCoffee.Microservices/blob/master/Mango.Web/Program.cs",
-    "title": "MangoRestarauntCoffee.Microservices/Mango.Web/Program.cs at master · adichev1...",
-    "count": 2,
-    "uniques": 1
+    "uniques": 2
   },
   {
     "path": "/adichev17/MangoRestarauntCoffee.Microservices/tree/master/MangoMessageBus",
     "title": "MangoRestarauntCoffee.Microservices/MangoMessageBus at master · adichev17/Man...",
+    "count": 2,
+    "uniques": 1
+  },
+  {
+    "path": "/adichev17/MangoRestarauntCoffee.Microservices/tree/master/Mango.Web",
+    "title": "MangoRestarauntCoffee.Microservices/Mango.Web at master · adichev17/MangoRest...",
     "count": 2,
     "uniques": 1
   }
