@@ -24,12 +24,6 @@
     "uniques": 1
   },
   {
-    "path": "/adichev17/ExpenseApplication",
-    "title": "adichev17/ExpenseApplication: Mobile application for accounting of finances, ...",
-    "count": 2,
-    "uniques": 1
-  },
-  {
     "path": "/adichev17/ExpenseApplication/blob/master/MessageBus/RabbitMQProducers/RabbitMQProducer.cs",
     "title": "ExpenseApplication/MessageBus/RabbitMQProducers/RabbitMQProducer.cs at master...",
     "count": 2,
@@ -57,6 +51,12 @@
     "path": "/adichev17/ExpenseApplication/tree/master/Microservices/ExpenseTracker/ExpenseTracker.Application",
     "title": "ExpenseApplication/Microservices/ExpenseTracker/ExpenseTracker.Application at...",
     "count": 2,
+    "uniques": 1
+  },
+  {
+    "path": "/adichev17/ExpenseApplication",
+    "title": "adichev17/ExpenseApplication: Mobile application for accounting of finances, ...",
+    "count": 1,
     "uniques": 1
   }
 ]
