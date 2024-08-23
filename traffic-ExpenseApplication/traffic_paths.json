@@ -1,1 +1,62 @@
-[]
+[
+  {
+    "path": "/adichev17/ExpenseApplication",
+    "title": "adichev17/ExpenseApplication: Mobile application for accounting of finances, ...",
+    "count": 5,
+    "uniques": 1
+  },
+  {
+    "path": "/adichev17/ExpenseApplication/edit/master/README.md",
+    "title": "Editing ExpenseApplication/README.md at master · adichev17/ExpenseApplication",
+    "count": 5,
+    "uniques": 1
+  },
+  {
+    "path": "/adichev17/ExpenseApplication/graphs/traffic",
+    "title": "Traffic · adichev17/ExpenseApplication",
+    "count": 4,
+    "uniques": 1
+  },
+  {
+    "path": "/adichev17/ExpenseApplication/graphs/code-frequency",
+    "title": "Code frequency · adichev17/ExpenseApplication",
+    "count": 3,
+    "uniques": 1
+  },
+  {
+    "path": "/adichev17/ExpenseApplication/pulse",
+    "title": "Pulse · adichev17/ExpenseApplication",
+    "count": 2,
+    "uniques": 1
+  },
+  {
+    "path": "/adichev17/ExpenseApplication/community",
+    "title": "Community Standards",
+    "count": 1,
+    "uniques": 1
+  },
+  {
+    "path": "/adichev17/ExpenseApplication/forks",
+    "title": "Forks · adichev17/ExpenseApplication",
+    "count": 1,
+    "uniques": 1
+  },
+  {
+    "path": "/adichev17/ExpenseApplication/graphs/commit-activity",
+    "title": "Commit Activity · adichev17/ExpenseApplication",
+    "count": 1,
+    "uniques": 1
+  },
+  {
+    "path": "/adichev17/ExpenseApplication/network",
+    "title": "Network Graph · adichev17/ExpenseApplication",
+    "count": 1,
+    "uniques": 1
+  },
+  {
+    "path": "/adichev17/ExpenseApplication/network/dependencies",
+    "title": "Dependencies · adichev17/ExpenseApplication",
+    "count": 1,
+    "uniques": 1
+  }
+]

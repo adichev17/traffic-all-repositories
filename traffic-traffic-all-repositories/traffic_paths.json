@@ -1,1 +1,44 @@
-[]
+[
+  {
+    "path": "/adichev17/traffic-all-repositories/blob/main/README.md",
+    "title": "traffic-all-repositories/README.md at main · adichev17/traffic-all-repositories",
+    "count": 2,
+    "uniques": 1
+  },
+  {
+    "path": "/adichev17/traffic-all-repositories",
+    "title": "adichev17/traffic-all-repositories",
+    "count": 1,
+    "uniques": 1
+  },
+  {
+    "path": "/adichev17/traffic-all-repositories/actions",
+    "title": "Workflow runs · adichev17/traffic-all-repositories",
+    "count": 1,
+    "uniques": 1
+  },
+  {
+    "path": "/adichev17/traffic-all-repositories/actions/caches",
+    "title": "Caches · adichev17/traffic-all-repositories",
+    "count": 1,
+    "uniques": 1
+  },
+  {
+    "path": "/adichev17/traffic-all-repositories/actions/runs/10481454558",
+    "title": "traffic2badge · adichev17/traffic-all-repositories@27eca1e",
+    "count": 1,
+    "uniques": 1
+  },
+  {
+    "path": "/adichev17/traffic-all-repositories/actions/runs/10481454558/workflow",
+    "title": "Create traffic job.yml · adichev17/traffic-all-repositories@27eca1e",
+    "count": 1,
+    "uniques": 1
+  },
+  {
+    "path": "/adichev17/traffic-all-repositories/actions/workflows/blank.yml",
+    "title": "traffic2badge · Workflow runs · adichev17/traffic-all-repositories",
+    "count": 1,
+    "uniques": 1
+  }
+]
