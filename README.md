@@ -94,6 +94,36 @@
 [![clones per week](https://raw.githubusercontent.com/adichev17/traffic-all-repositories/traffic/traffic-Course-work.Queue-of-sentence-sequences/clones_per_week.svg)](https://github.com/adichev17/traffic-all-repositories/tree/traffic#-Course-work.Queue-of-sentence-sequences)
 ```
 
+## 📚 [expense-tracker-frontend](https://github.com/adichev17/traffic-all-repositories/tree/traffic/traffic-expense-tracker-frontend)
+
+### 📷 Badges without link of [expense-tracker-frontend](https://github.com/adichev17/traffic-all-repositories/tree/traffic/traffic-expense-tracker-frontend)
+
+![views](https://raw.githubusercontent.com/adichev17/traffic-all-repositories/traffic/traffic-expense-tracker-frontend/views.svg)
+![views per week](https://raw.githubusercontent.com/adichev17/traffic-all-repositories/traffic/traffic-expense-tracker-frontend/views_per_week.svg)
+![clones](https://raw.githubusercontent.com/adichev17/traffic-all-repositories/traffic/traffic-expense-tracker-frontend/clones.svg)
+![clones per week](https://raw.githubusercontent.com/adichev17/traffic-all-repositories/traffic/traffic-expense-tracker-frontend/clones_per_week.svg)
+
+```markdown
+![views](https://raw.githubusercontent.com/adichev17/traffic-all-repositories/traffic/traffic-expense-tracker-frontend/views.svg)
+![views per week](https://raw.githubusercontent.com/adichev17/traffic-all-repositories/traffic/traffic-expense-tracker-frontend/views_per_week.svg)
+![clones](https://raw.githubusercontent.com/adichev17/traffic-all-repositories/traffic/traffic-expense-tracker-frontend/clones.svg)
+![clones per week](https://raw.githubusercontent.com/adichev17/traffic-all-repositories/traffic/traffic-expense-tracker-frontend/clones_per_week.svg)
+```
+
+### 🔗 Badges with link of [expense-tracker-frontend](https://github.com/adichev17/traffic-all-repositories/tree/traffic/traffic-expense-tracker-frontend)
+
+[![views](https://raw.githubusercontent.com/adichev17/traffic-all-repositories/traffic/traffic-expense-tracker-frontend/views.svg)](https://github.com/adichev17/traffic-all-repositories/tree/traffic#-expense-tracker-frontend)
+[![views per week](https://raw.githubusercontent.com/adichev17/traffic-all-repositories/traffic/traffic-expense-tracker-frontend/views_per_week.svg)](https://github.com/adichev17/traffic-all-repositories/tree/traffic#-expense-tracker-frontend)
+[![clones](https://raw.githubusercontent.com/adichev17/traffic-all-repositories/traffic/traffic-expense-tracker-frontend/clones.svg)](https://github.com/adichev17/traffic-all-repositories/tree/traffic#-expense-tracker-frontend)
+[![clones per week](https://raw.githubusercontent.com/adichev17/traffic-all-repositories/traffic/traffic-expense-tracker-frontend/clones_per_week.svg)](https://github.com/adichev17/traffic-all-repositories/tree/traffic#-expense-tracker-frontend)
+
+```markdown
+[![views](https://raw.githubusercontent.com/adichev17/traffic-all-repositories/traffic/traffic-expense-tracker-frontend/views.svg)](https://github.com/adichev17/traffic-all-repositories/tree/traffic#-expense-tracker-frontend)
+[![views per week](https://raw.githubusercontent.com/adichev17/traffic-all-repositories/traffic/traffic-expense-tracker-frontend/views_per_week.svg)](https://github.com/adichev17/traffic-all-repositories/tree/traffic#-expense-tracker-frontend)
+[![clones](https://raw.githubusercontent.com/adichev17/traffic-all-repositories/traffic/traffic-expense-tracker-frontend/clones.svg)](https://github.com/adichev17/traffic-all-repositories/tree/traffic#-expense-tracker-frontend)
+[![clones per week](https://raw.githubusercontent.com/adichev17/traffic-all-repositories/traffic/traffic-expense-tracker-frontend/clones_per_week.svg)](https://github.com/adichev17/traffic-all-repositories/tree/traffic#-expense-tracker-frontend)
+```
+
 ## 📚 [ExpenseApplication](https://github.com/adichev17/traffic-all-repositories/tree/traffic/traffic-ExpenseApplication)
 
 ### 📷 Badges without link of [ExpenseApplication](https://github.com/adichev17/traffic-all-repositories/tree/traffic/traffic-ExpenseApplication)
@@ -242,6 +272,36 @@
 [![views per week](https://raw.githubusercontent.com/adichev17/traffic-all-repositories/traffic/traffic-lr-web2/views_per_week.svg)](https://github.com/adichev17/traffic-all-repositories/tree/traffic#-lr-web2)
 [![clones](https://raw.githubusercontent.com/adichev17/traffic-all-repositories/traffic/traffic-lr-web2/clones.svg)](https://github.com/adichev17/traffic-all-repositories/tree/traffic#-lr-web2)
 [![clones per week](https://raw.githubusercontent.com/adichev17/traffic-all-repositories/traffic/traffic-lr-web2/clones_per_week.svg)](https://github.com/adichev17/traffic-all-repositories/tree/traffic#-lr-web2)
+```
+
+## 📚 [mail-parser](https://github.com/adichev17/traffic-all-repositories/tree/traffic/traffic-mail-parser)
+
+### 📷 Badges without link of [mail-parser](https://github.com/adichev17/traffic-all-repositories/tree/traffic/traffic-mail-parser)
+
+![views](https://raw.githubusercontent.com/adichev17/traffic-all-repositories/traffic/traffic-mail-parser/views.svg)
+![views per week](https://raw.githubusercontent.com/adichev17/traffic-all-repositories/traffic/traffic-mail-parser/views_per_week.svg)
+![clones](https://raw.githubusercontent.com/adichev17/traffic-all-repositories/traffic/traffic-mail-parser/clones.svg)
+![clones per week](https://raw.githubusercontent.com/adichev17/traffic-all-repositories/traffic/traffic-mail-parser/clones_per_week.svg)
+
+```markdown
+![views](https://raw.githubusercontent.com/adichev17/traffic-all-repositories/traffic/traffic-mail-parser/views.svg)
+![views per week](https://raw.githubusercontent.com/adichev17/traffic-all-repositories/traffic/traffic-mail-parser/views_per_week.svg)
+![clones](https://raw.githubusercontent.com/adichev17/traffic-all-repositories/traffic/traffic-mail-parser/clones.svg)
+![clones per week](https://raw.githubusercontent.com/adichev17/traffic-all-repositories/traffic/traffic-mail-parser/clones_per_week.svg)
+```
+
+### 🔗 Badges with link of [mail-parser](https://github.com/adichev17/traffic-all-repositories/tree/traffic/traffic-mail-parser)
+
+[![views](https://raw.githubusercontent.com/adichev17/traffic-all-repositories/traffic/traffic-mail-parser/views.svg)](https://github.com/adichev17/traffic-all-repositories/tree/traffic#-mail-parser)
+[![views per week](https://raw.githubusercontent.com/adichev17/traffic-all-repositories/traffic/traffic-mail-parser/views_per_week.svg)](https://github.com/adichev17/traffic-all-repositories/tree/traffic#-mail-parser)
+[![clones](https://raw.githubusercontent.com/adichev17/traffic-all-repositories/traffic/traffic-mail-parser/clones.svg)](https://github.com/adichev17/traffic-all-repositories/tree/traffic#-mail-parser)
+[![clones per week](https://raw.githubusercontent.com/adichev17/traffic-all-repositories/traffic/traffic-mail-parser/clones_per_week.svg)](https://github.com/adichev17/traffic-all-repositories/tree/traffic#-mail-parser)
+
+```markdown
+[![views](https://raw.githubusercontent.com/adichev17/traffic-all-repositories/traffic/traffic-mail-parser/views.svg)](https://github.com/adichev17/traffic-all-repositories/tree/traffic#-mail-parser)
+[![views per week](https://raw.githubusercontent.com/adichev17/traffic-all-repositories/traffic/traffic-mail-parser/views_per_week.svg)](https://github.com/adichev17/traffic-all-repositories/tree/traffic#-mail-parser)
+[![clones](https://raw.githubusercontent.com/adichev17/traffic-all-repositories/traffic/traffic-mail-parser/clones.svg)](https://github.com/adichev17/traffic-all-repositories/tree/traffic#-mail-parser)
+[![clones per week](https://raw.githubusercontent.com/adichev17/traffic-all-repositories/traffic/traffic-mail-parser/clones_per_week.svg)](https://github.com/adichev17/traffic-all-repositories/tree/traffic#-mail-parser)
 ```
 
 ## 📚 [MangoRestarauntCoffee.Microservices](https://github.com/adichev17/traffic-all-repositories/tree/traffic/traffic-MangoRestarauntCoffee.Microservices)

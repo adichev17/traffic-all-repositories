@@ -1,10 +1,10 @@
 {
-  "count": 7,
+  "count": 1,
   "uniques": 1,
-  "views": [
+  "clones": [
     {
       "timestamp": "2024-12-23T00:00:00Z",
-      "count": 7,
+      "count": 1,
       "uniques": 1
     }
   ]
