@@ -2503,6 +2503,11 @@
       "uniques": 3
     },
     {
+      "timestamp": "2025-02-12T00:00:00Z",
+      "count": 3,
+      "uniques": 2
+    },
+    {
       "timestamp": "2025-02-01T00:00:00Z",
       "count": 3,
       "uniques": 2
@@ -2554,11 +2559,6 @@
     },
     {
       "timestamp": "2025-02-11T00:00:00Z",
-      "count": 3,
-      "uniques": 2
-    },
-    {
-      "timestamp": "2025-02-12T00:00:00Z",
       "count": 3,
       "uniques": 2
     }
